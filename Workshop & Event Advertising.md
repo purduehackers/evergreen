@@ -42,37 +42,38 @@ If you are under a time crunch and / or do not have many people to help with adv
 
 ## CNIT / CGT / ENGT Polytechnic Classes
 
-| Course     | Instructor(s) | Email(s) | Class Name | # Enrolled |
-| ---------- | ------------- | -------- | ---------- | ---------- |
-| CNIT 105   |               |          |            |            |
-| CNIT 15501 |               |          |            |            |
-| CNIT 182   |               |          |            |            |
-| CNIT 242   |               |          |            |            |
-| CNIT 25501 |               |          |            |            |
-| CNIT 270   |               |          |            |            |
-| CNIT 271   |               |          |            |            |
-| CNIT 272   |               |          |            |            |
-| CNIT 280   |               |          |            |            |
-| CGT 10501  |               |          |            |            |
-| CGT 118    |               |          |            |            |
-| CGT 17208  |               |          |            |            |
-| ENGT 182   |               |          |            |            |
+| Course     | Instructor(s)           | Email(s)                                 | Class Name                                    | # Enrolled |
+| ---------- | ----------------------- | ---------------------------------------- | --------------------------------------------- | ---------- |
+| CNIT 105   | Tawfiq Salem            | tsalem@purdue.edu                        | Introduction to C Programming                 | 200-264    |
+| CNIT 15501 | Tawfiq Salem            | tsalem@purdue.edu                        | Introduction to Software Development Concepts | 120-126    |
+| CNIT 180   | William Ledbetter       | wledbett@purdue.edu                      | Introduction to Systems Development           | 180-196    |
+| CNIT 182   | Paul Josekutty Thomas   | pjosekut@purdue.edu                      | System and Organizational Security            | 150-156    |
+| CNIT 242   | Robert Deadman<br>Salam | rdeadman@purdue.edu<br>salama@purdue.edu | System Administration                         | 198        |
+| CNIT 25501 | Eunsun Smith            | wilso287@purdue.edu                      | Object-Oriented Programming Introduction      | 180        |
+| CNIT 270   | Zuel                    | bzuel@purdue.edu                         | Cybersecurity Fundamentals I                  | 140        |
+| CNIT 271   | Smriti Bhatt            | bhatt32@purdue.edu                       | Cybersecurity Fundamentals II                 | 90         |
+| CNIT 272   | Sudip Vhaduri           | svhaduri@purdue.edu                      | Database Fundamentals                         | 150        |
+| CNIT 280   | Alejandra Magana Deleon | admagana@purdue.edu                      | Systems Analysis and Design Methods           | 100        |
+| CGT 10501  | Robert Howard           | howarddr@purdue.edu                      | Introduction to Games                         | 100-160    |
+| CGT 118    | Raymond Hassan          | rhassan@purdue.edu                       | Fundamentals of Imaging Technology            | 200-240    |
+| CGT 17208  | Park<br>Nandhini Giri   | park1187@purdue.edu<br>girin@purdue.edu  | User Experience Design Studio I: Fundamentals | 80         |
+| ENGT 182   | Brittany Newell         | bnewell1@purdue.edu                      | Gateway to Engineering Technology             | 300-320    |
 
 ## Engineering Classes
 
-| Course    | Instructor(s) | Email(s) | Class Name | # Enrolled |
-| --------- | ------------- | -------- | ---------- | ---------- |
-| ECE 20001 |               |          |            |            |
-| ECE 20002 |               |          |            |            |
-| ECE 20875 |               |          |            |            |
-| ECE 264   |               |          |            |            |
-| ECE 270   |               |          |            |            |
-| ECE 29401 |               |          |            |            |
-| ECE 301   |               |          |            |            |
-| ECE 302   |               |          |            |            |
-| ECE 368   |               |          |            |            |
-| ECE 369   |               |          |            |            |
-| ENGR 131  |               |          |            |            |
+| Course    | Instructor(s)                                       | Email(s)                                                                | Class Name                                                   | # Enrolled |
+| --------- | --------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------ | ---------- |
+| ECE 20001 | Jackson Edward Mckinney<br>Maryam A Al-Othman       | mckinn56@purdue.edu<br>malothma@purdue.edu                              | Electrical Engineering Fundamentals I                        | 800-860    |
+| ECE 20002 | Luis Javier Gomez<br>Joseph Gerard Makin            | ljgomez@purdue.edu<br>jgmakin@purdue.edu                                | Electrical Engineering Fundamentals II                       | 220-240    |
+| ECE 20875 | Murat Kocaoglu<br>Qiang Qiu<br>Anuran Makur         | mkocaogl@purdue.edu<br>qqiu@purdue.edu<br>amakur@purdue.edu             | Python for Data Science                                      | 340-360    |
+| ECE 264   | Yung-Hsiang Lu<br>Cheng-Kok Koh                     | yunglu@purdue.edu<br>chengkok@purdue.edu                                | Advanced C Programming                                       | 440-450    |
+| ECE 270   | Jingfeng Li                                         | jnli@purdue.edu                                                         | Introduction to Digital System Design                        | 272        |
+| ECE 29401 | Angela S Rainwater                                  | rainwate@purdue.edu                                                     | Electrical and Computer Engineering Sophomore Seminar        | 360        |
+| ECE 301   | Qi Guo<br>Zubin Jacob<br>Dasala                     | guo675@purdue.edu<br>zjacob@purdue.edu<br>kdasala@purdue.edu            | Signals and Systems                                          | 400-482    |
+| ECE 302   | Saul B Gelfand<br>Vishrant Tripathi<br>Kent W Gauen | saul.b.gelfand.1@purdue.edu<br>tripathv@purdue.edu<br>gauenk@purdue.edu | Probabilistic Methods in Electrical and Computer Engineering | 200-260    |
+| ECE 368   | Somosmita Mitra<br>Junyoung Kim                     | mitra26@purdue.edu<br>kim3722@purdue.edu                                | Data Structures                                              | 250-320    |
+| ECE 369   | X Chen<br>Saurabh Bagchi                            | <br>sbagchi@purdue.edu                                                  | Discrete Mathematics for Computer Engineering                | 225-254    |
+| ENGR 131  | Sean Brophy                                         | brophy0@purdue.edu                                                      | Transforming Ideas to Innovation I                           | 2400-2500  |
 
 ## Miscellaneous
 
