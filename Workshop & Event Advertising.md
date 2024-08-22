@@ -1,3 +1,5 @@
+*Written by Rachel Sacdalan*
+
 This file serves as a guide on how to market Purdue Hackers workshops and other events to professors and students. 
 
 Outline:
@@ -83,6 +85,7 @@ If you are under a time crunch and / or do not have many people to help with adv
 You can find past emails under `phackers@purdue.edu` under the Sent Items folder.
 ## Professors
 Here is an outline of a sample email:
+
 ```
 Hello Professor [Name],
 
