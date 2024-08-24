@@ -36,10 +36,14 @@ OR
 	- [ ] Verify the pizzas are Square Cut
 	- [ ] Verify the coupon is added
 		- [ ] Coupon: `3 or more Large 1-Topping Pizzas for $9.99`
-- [ ] Deliver to Bechtel Center
+- [ ] Deliver to Bechtel Center:
+
+      
       1090 3rd Street
       West Lafayette, Indiana
       47906-2817
+      
+
 - [ ] Add Items & Check Out
 
 ## 3. Checkout
