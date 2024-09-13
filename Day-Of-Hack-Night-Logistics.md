@@ -36,7 +36,7 @@ These are things you should make sure we have at Hack Night that are not already
 - [ ] Pizza gets delivered.
   - [ ] Make sure there is enough counter space for the pizza.
   - [ ] Put plates/napkins out.
-  - [ ] Enforce 2 pizzas per person, otherwise we will run out.
+  - [ ] Enforce 2 slices per person, otherwise we will run out.
 - [ ] Session timeslot begins. Let everybody at Hack Night know that a Session is beginning.
 
 ### 11:59 PM
