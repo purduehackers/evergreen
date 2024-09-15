@@ -17,6 +17,11 @@ These are things you should make sure we have at Hack Night that are not already
 
 ## General Timeline
 
+### Asynchronous/Throughout Hack Night
+- Attendance should be taken throughout hack night, every hour or so.
+  - Create a thread in the #core-hack-night channel called "MM/DD/YYYY Attendance" and do a head count.
+- Take pictures throughout hack night. They can be put in the Discord as convenient.
+
 ### (Ideally) <8:00 PM
 - [ ] Obtain Hack Cart from Lawson. This contains supplies and a handful of projects. You will need to use the elevators in both Lawson and Bechtel.
 - [ ] Order pizza (see the other document in evergreen going over the details of that). Time may vary. The goal is for the pizza to arrive around 9pm, and delivery often takes 1.5-2h
@@ -30,8 +35,6 @@ These are things you should make sure we have at Hack Night that are not already
 - [ ] Make sure weekly badges are out.
 - [ ] Make sure weekly stamp is out along with the ink pad.
 - [ ] Create a thread on discord to start tracking attendance.
-  - Create a thread in the #core-hack-night channel called "MM/DD/YYYY Attendance" and do a head count around every hour.
-- [ ] This would also be a good time to start taking pictures of hack night. They can be placed somewhere convenient in the Discord later on.
 
 ### ~9:00 PM
 - [ ] Sessions and Reading Circle timeslots begin. They can occur whenever but generally start a bit into hack night, and generally are given single-hour increment blocks of time.
