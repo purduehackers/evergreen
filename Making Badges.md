@@ -22,9 +22,14 @@ One 12x18 sheet with 1/8" thickness have produced 35-50 badges. Consider the the
 
 # 3. Design the badge
 Starting with a drawing can help. Then import the drawing into a vector graphics software of your choice and trace around to make your design come alive digitally. Figma, Illustrator, or Vectr are probably your best bet. <br> <br>
-Black = engrave. Red = cut. <br> 
-The laser cutter can be picky about the cutting path. Make sure that the red path indicating where to cut is not an outline of an object but a standalone path with a red stroke. <br> <br>
-You can use shades to control the strength of the engraving. Note that some acrylic such as the "pearl" kinds don't engrave as dramatically as others. Also, you can do intricate designs with the engravings as the laser cutter makes a standard pass through the whole acrylic sheet, but intricate cutting paths can increase laser cutting times. <br> <br>
+Black = engrave. Red = cut. <br> <br>
+The laser cutter can be picky about the cutting path. There are three main things that can happen: <br>
+* Correct: If you import a connected path of a red line from your graphics software of choice, Figma will see it as a single vector path, Ruby (software for laser cutting) sees it as a vector, the laser cutter does one smooth pass
+* Slightly Incorrect: If you use Joins on Figma to create your badge outline, Figma sees it as a single vector path, Ruby sees it as a complex object but still recognizes it as a cut line which causes the laser cutter to jump around and make redundant cuts
+* Incorrect: If you use a shape as a cut line, Figma sees it as a fill, ruby sees it as a complex object and does not recognize it as a cut line so make sure that the red path indicating where to cut is not an outline of an object but a standalone path with a red stroke.
+
+Note on engraving: you can use shades to control the strength of the engraving. Some acrylic such as the "pearl" kinds don't engrave as dramatically as others so you can increase the cut strength on Ruby. Also, you can do intricate designs with the engravings as the laser cutter makes a standard pass through the whole acrylic sheet, but intricate cutting paths can increase laser cutting times. <br> <br>
+
 When you're finished, export your design in .svg and put it on Figma.
 
 # 4. Design the stamp
@@ -37,12 +42,12 @@ Now copy paste the outline shape, get rid of the fill, and make it red (#FF0000)
 This process is very doable within Figma, but if it isn't on there already, put your stamp design on Figma as well.
 
 # 5. Print badge
-Prerequisite: be certified and reserve a time slot. (ask Matthew about how) <br> <br>
+Prerequisite: be certified and reserve a time slot.
 I imagine most of the information below will be learned when you get laser cutter certified <br> <br>
 
 Export the stamp and badge designs separately as SVG files and put them on a USB.
-Once you're in the lab, move the designs to Trotec on the design tab and set the size of the badge on the prepare tab.
-Don't forget to set the material you are printing on.
+Once you're in the lab, move the designs to Ruby Trotec on the design tab and set the size of the badge on the prepare tab.
+Set the material you are printing on.
 Align the badges on the page to optimize space and make them fit on the size of the acrylic sheet. A lot of copy paste and resizing.
 Calculate job time and you can create a job. <br> <br>
 
