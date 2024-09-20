@@ -29,7 +29,7 @@ These are things you should make sure we have at Hack Night that are not already
 ### 8:00 PM
 - [ ] Set up projector with the Hack Night Dashboard. We usually use Matthew's iPad but any spare device that can connect to the projector could work.
   - Make sure to test that the sound is working & at an appropriate volume by triggering the doorbell. Do not set up and leave without testing the doorbell.
-    - If audio is not playing from the iPad, double check that it isn't muted and that the volume is on above 0.
+    - If audio is not playing from the iPad, double check that it isn't muted and that the volume is on above 0. Also tap the screen while the dashboard is open, because browsers won't play audio if the user didn't interact with the website.
 - [ ] Set up Door Opener.
   - Wipe off suction cups with a damp paper towel as well as the spot on the wall where the Door Opener will be attached.
 - [ ] Make sure weekly badges are out.
