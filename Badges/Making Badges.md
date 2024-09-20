@@ -1,3 +1,5 @@
+_Originally written by Sean Choi on September 4, 2024_
+
 This file serves as a guide on how to make badges / stamps for Hack Night.
 
 Outline:
