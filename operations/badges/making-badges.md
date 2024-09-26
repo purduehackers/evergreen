@@ -20,19 +20,25 @@ Also consider basing the badge off of an idea rather than a specific thing like 
 
 # 2. Buy acrylic
 We get a lot of our acrylic from [Canal Plastics Center](https://www.canalplastic.com/products/0b008-rt-radiant-iridescent-acrylic-sheet) but Amazon and others are fine too. 
-One 12x18 sheet with 1/8" thickness have produced 35-50 badges. Consider the theme to find a fitting acrylic or find something cool and inspiring!
+One 12x18 sheet with 1/8" thickness have produced 35-50 badges. Consider the theme to find a fitting acrylic or find something cool and inspiring! <br> <br>
+More details at [ordering-material.md](ordering-material.md).
 
 # 3. Design the badge
 Starting with a drawing can help. Then import the drawing into a vector graphics software of your choice and trace around to make your design come alive digitally. Figma, Illustrator, or Vectr are probably your best bet. <br> <br>
 Black = engrave. Red = cut. <br> <br>
-The laser cutter can be picky about the cutting path. There are three main things that can happen: <br>
-* Correct: If you import a connected path of a red line from your graphics software of choice, Figma will see it as a single vector path, Ruby (software for laser cutting) sees it as a vector, the laser cutter does one smooth pass
-* Slightly Incorrect: If you use Joins on Figma to create your badge outline, Figma sees it as a single vector path, Ruby sees it as a complex object but still recognizes it as a cut line which causes the laser cutter to jump around and make redundant cuts
-* Incorrect: If you use a shape as a cut line, Figma sees it as a fill, ruby sees it as a complex object and does not recognize it as a cut line so make sure that the red path indicating where to cut is not an outline of an object but a standalone path with a red stroke.
+The laser cutter can be picky about the cutting path. For details see [Cutting Path](#cutting-path) <br>
 
 Note on engraving: you can use shades to control the strength of the engraving. Some acrylic such as the "pearl" kinds don't engrave as dramatically as others so you can increase the cut strength on Ruby. Also, you can do intricate designs with the engravings as the laser cutter makes a standard pass through the whole acrylic sheet, but intricate cutting paths can increase laser cutting times. <br> <br>
 
 When you're finished, export your design in .svg and put it on Figma.
+
+## Common Pitfalls
+* If you use text effects like warp or use fonts that don't exist on Figma, you need to "Create Outline" of the text. This will make the text vector shapes. Note that this results in the text being non-editable so do this after you've finalized the design or after you make a backup.
+### Cutting Path 
+There are three main things that can happen: <br>
+* Correct: If you import a connected path of a red line from your graphics software of choice, Figma will see it as a single vector path, Ruby (software for laser cutting) sees it as a vector, the laser cutter does one smooth pass
+* Slightly Incorrect: If you use Joins on Figma to create your badge outline, Figma sees it as a single vector path, Ruby sees it as a complex object but still recognizes it as a cut line which causes the laser cutter to jump around and make redundant cuts
+* Incorrect: If you use a shape as a cut line, Figma sees it as a fill, ruby sees it as a complex object and does not recognize it as a cut line so make sure that the red path indicating where to cut is not an outline of an object but a standalone path with a red stroke.
 
 # 4. Design the stamp
 Draw inspiration from an actual stamp shape, generate a blob, make a shape that inspires you, or take a shape from a previous stamp. <br>
