@@ -23,8 +23,11 @@ We get a lot of our acrylic from [Canal Plastics Center](https://www.canalplasti
 One 12x18 sheet with 1/8" thickness have produced 35-50 badges. Consider the theme to find a fitting acrylic or find something cool and inspiring!
 
 # 3. Design the badge
-Starting with a drawing can help. Then import the drawing into a vector graphics software of your choice and trace around to make your design come alive digitally. Figma, Illustrator, or Vectr are probably your best bet. <br> <br>
-Black = engrave. Red = cut. <br> <br>
+Starting with a drawing can help. Then import the drawing into a vector graphics software of your choice and trace around to make your design come alive digitally. Figma, Illustrator, or Vectr are probably your best bet.
+
+- Black = engrave. Red = cut.
+- Make sure all engraving lines have a thickness of at least 3px — 1px and 2px lines don't show up well when laser cut.
+
 The laser cutter can be picky about the cutting path. There are three main things that can happen: <br>
 * Correct: If you import a connected path of a red line from your graphics software of choice, Figma will see it as a single vector path, Ruby (software for laser cutting) sees it as a vector, the laser cutter does one smooth pass
 * Slightly Incorrect: If you use Joins on Figma to create your badge outline, Figma sees it as a single vector path, Ruby sees it as a complex object but still recognizes it as a cut line which causes the laser cutter to jump around and make redundant cuts
