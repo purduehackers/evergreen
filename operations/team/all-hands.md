@@ -28,7 +28,7 @@ Missing one All Hands means you go two weeks without seeing all your teammates a
 
 I saw the following so many times during my time running Purdue Hackers before strictly enforcing attendance: Somebody missed an All Hands. I didn’t follow up, then they missed then another one. Purdue Hackers rapidly moved on without them, and they lost touch with what’s going on. As a result, they became less engaged with their work, which made them less excited to come to All Hands. So they skipped another one, became less engaged, and so on. Eventually, months later, they became dead weight on the team: not having contributed anything, and not understanding what their roles or expectations are. Every person who fell into this doom loop quit or was fired.
 
-You can chalk this up to poor leadership—shouldn’t I, or a division lead, step in to clarify someone’s role and fill them in if they lose clarity on their expectations? But I think this would be wasted effort: everyone in a position of leadership, from project owners to division leads to me, has enough on their plate without chasing down folks to provide context they can get by coming to All Hands. Good leadership absolutely makes a difference, but being on a team means doing your part as well. (Of course, there are many reasons someone can lose context/motivation/etc that do require leaders to step in—this section is only referring to the broader team context gained from All Hands)
+You can chalk this up to poor leadership—shouldn’t I, or a division lead, step in to clarify someone’s role and fill them in if they lose clarity on their expectations? But I think this would be wasted effort: everyone in a position of leadership, from project owners to division leads to me, has enough on their plate without chasing down folks to provide context they can get by coming to All Hands. Good leadership is important, but teammates have to do their part as well. (Of course, there are many reasons someone can lose context/motivation/etc that do require leaders to step in—this section is only referring to the broader team context gained from All Hands)
 
 It also sucks for the people who do show up. All Hands is meant to be an energizing moment of the week, where everybody sees each other, hears about their work, and gets excited for the future. If folks don’t show up, the team cannot all be on the same page, and All Hands loses its purpose and value. Everyone suffers.
 
@@ -38,7 +38,7 @@ So. Come to All Hands every week. In exchange, it will be worth your time every 
 
 Many other student orgs have weekly officer meetings which serve as planning meetings. These meetings often run 1-2 hours, and the goal is also for everyone to be on the same page about the org’s goals.
 
-Purdue Hackers ran meetings in this format before my time, and they were awful. The vast majority of what’s discussed is only relevant to a small subset of attendees, leaving everyone else disengaged; and meetings dramatically lost focus after ~30 minutes. And, of course, most organizers didn’t show up, because why would you when showing up entails spending an hour in a draining meeting that provides no value?
+Purdue Hackers ran meetings in this format before my time, and they were awful. The vast majority of discussions were only relevant to a small subset of attendees, leaving everyone else disengaged; and meetings dramatically lost focus after ~30 minutes. And, of course, most organizers didn’t show up, because why would you when showing up entails spending an hour in a draining meeting that provides no value?
 
 Part of the social contract of All Hands is that, in exchange for your time, you feel like your time was well-spent. So All Hands is a tight ship, and its contents should be relevant to everyone. 30 minutes, strictly project check-ins.
 
@@ -46,7 +46,7 @@ Part of the social contract of All Hands is that, in exchange for your time, you
 
 # When
 
-All Hands runs every Sunday at 6pm. The goal is for it to last 30 minutes, but most time it runs 5-10 minutes over (rarely more though).
+All Hands runs every Sunday at 6pm. The goal is for it to last 30 minutes, but most time it runs 5-10 minutes over.
 
 Early on during my leadership (2022-23), I sent out a when2meet and chose the time that worked best for most people. This meant all hands happened sometime during the week, usually between Monday and Thursday. I stopped doing this because there would be entire weeks with very poor attendance because a CS class had a midterm, and half of the organizers were in that class. I don’t remember when I chose Sunday at 6pm—I actually think it might have been a happy result of a when2meet—but I’ve found it to be a much better time because there are almost never any hard commitments that take priority over all hands, so it’s much more common for everyone to show up.
 
@@ -54,7 +54,7 @@ I, personally, strongly believe All Hands should run on a weekend, Saturday or S
 
 # Where
 
-All Hands typically runs on Discord, in a voice channel called “🙌all hands”. This voice channel is public because _All Hands is open to the public_. Anyone in the community is welcome & encouraged to join.
+All Hands typically runs on Discord, in a voice channel called “🙌all hands”. This voice channel is public because All Hands is open to the public: anyone in the community is welcome & encouraged to join.
 
 The first All Hands of every month runs in person in the Lawson building. We do not reserve rooms because Purdue charges us to reserve rooms over the weekend. Instead, we take advantage of the fact that Lawson is locked over the weekend and most rooms are empty, so we can run in and grab one. We usually grab LWSN 1106 or LWSN B134.
 
@@ -87,6 +87,8 @@ If it’s been longer than 2 minutes and it’s clear more discussion is needed,
 After the agenda finishes, I thank everyone for coming. If any post–All Hands discussion items are on the list, I name them and encourage those who want to participate to stick around. Everyone else is welcome to leave. If anyone sticks around, I do as well until discussions are complete.
 
 Whoever was asked to own meeting notes shares them in the `#meeting-notes` forum channel in Discord, in a thread titled “All Hands \<date\>”, as well as committing them to the `dark-forest` repo.
+
+If I noticed that someone didn’t show up and didn’t inform the team ahead of time, I reach out privately asking them where they were & not to do that again.
 
 ## Past structures
 
