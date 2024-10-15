@@ -110,7 +110,7 @@ Team structure moved to projects with DRIs instead of subteams in February 2023.
 
 <details>
 
-<summary>Announcement of a Spring ’23 All Hands</summary>
+<summary>Spring 2023 announcement</summary>
 
 ![](img/s23-announcement.png)
 
@@ -124,7 +124,7 @@ All Hands began to take on a more strictly “project updates” approach:
 
 <details>
 
-<summary>Fall 2023 All Hands announcement</summary>
+<summary>Fall 2023 announcement</summary>
 
 ![](img/f23-announcement.png)
 
@@ -146,7 +146,7 @@ Around late January/early February, we began doing follow-up discussions and run
 
 <details>
 
-<summary>Spring 2024 All Hands announcement</summary>
+<summary>Spring 2024 announcement</summary>
 
 ![](img/s24-announcement.png)
 
@@ -154,7 +154,7 @@ Around late January/early February, we began doing follow-up discussions and run
 
 <details>
 
-<summary>Spring 2024 All Hands announcement</summary>
+<summary>Spring 2024 feedback</summary>
 
 ![](img/s24-feedback.png)
 
