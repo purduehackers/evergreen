@@ -4,21 +4,21 @@ _Originally written by Matthew Stanciu on October 15th, 2024_
 
 # What is All Hands?
 
-All Hands is a check-in meeting for active projects. Every project owner has 2 minutes to share a short update on the status of their project: 1) What happened in the last week/how the project is going overall, and 2) What’s happening next week. All Hands lasts 30 minutes.
+All Hands is a weekly check-in meeting for active projects. Every project owner has 2 minutes to share a short update on the status of their project: 1) How their project is going, 2) What happened in the last week, 3) What’s happening next week. All Hands lasts 30 minutes.
 
 The goal of All Hands is 1) for every organizer to be on the same page about what’s happening across the org, and 2) to serve as a weekly check-in point for project owners. All Hands should feel (& genuinely be) useful for every organizer, and should not waste time.
 
-Attendance is strictly enforced: not showing up to All Hands without saying anything is a mortal sin, especially if you’re on the agenda. If an organizer absolutely cannot come, they need to say so ahead of time, with a non-vague reason why, and there are very few valid reasons to not come to All Hands. Scheduling something over All Hands is also a mortal sin.
+Attendance is strictly enforced: not showing up to All Hands without saying anything is a mortal sin, especially if you’re on the agenda. If an organizer absolutely cannot come, they need to say so ahead of time, with a clear reason why, and there are very few valid reasons to not come to All Hands. Scheduling something over All Hands is also a mortal sin.
 
 All Hands is not a discussion meeting. Some light discussion/questions are allowed, but in general discussions should be had after All Hands or asynchronously over Discord. Everything shared in All Hands should be evaluated by the question, “Is this relevant to every organizer?” Every time we feel like we’re getting into the weeds about a particular project, we note that more discussion is needed on that topic and move on.
 
 After the core All Hands meeting, we come back to the list of topics that need more discussion, and anyone who wants to participate in any those discussions sticks around. Most organizers tend to leave at this point, with 0-5 sticking around, depending on what’s on the post–All Hands agenda.
 
-It should be noted that this description of All Hands is more of an ideal. Some All Hands do follow this format exactly, but more often than not, All Hands runs 5-10 minutes overtime, often because we get into the weeds about Hack Night or Passports. However, when this happens, I consider it a failure.
+It should be noted that this description of All Hands is more of an ideal. Some All Hands do follow this format exactly, but more often than not, All Hands runs 5-10 minutes overtime, often because we get into the weeds about one or two projects. The goal is to not do that, though.
 
 # Why All Hands?
 
-All Hands is the only point during the week where every organizer hears everything that’s going on in the org. This is particularly important for Purdue Hackers because we have lots of ongoing projects—12, at the time of writing—which is a very large scope, larger than many other student orgs. If you’re not deeply plugged into Purdue Hackers at every moment, you will miss some of what’s going on. All Hands is the point at which everyone can get back on the same page.
+All Hands is the only point during the week when every organizer hears everything that’s going on in the org. This is particularly important for Purdue Hackers because we have lots of ongoing projects—12, at the time of writing—which is a very large scope, larger than many other student orgs. If you’re not deeply plugged into Purdue Hackers at every moment, you will miss some of what’s going on. All Hands is the point at which everyone can get back on the same page.
 
 Project owners also need constant check-in, feedback, and goals. All Hands provides a built-in point for this to happen. It also serves as a built-in weekly deadline: if you’re working on something, and know you will share an update at All Hands, this deadline serves as motivation.
 
@@ -48,7 +48,7 @@ Part of the social contract of All Hands is that, in exchange for your time, you
 
 All Hands runs every Sunday at 6pm. The goal is for it to last 30 minutes, but most of the time it runs 5-10 minutes over.
 
-Early on during my leadership (2022-23), I sent out a when2meet and chose the time that worked best for most people. This meant All Hands happened sometime during the week, usually between Monday and Thursday. I stopped doing this because there would be entire weeks with very poor attendance because a CS class had a midterm, and half of the organizers were in that class. I don’t remember when it became Sunday at 6pm—I actually think it might have been a happy result of a when2meet—but I’ve found it to be a much better time because there are almost never any hard commitments that take priority over All Hands, so it’s much more common for everyone to show up.
+Early on during my leadership (2022-23), I sent out a when2meet and chose the time that worked best for most people. This meant All Hands happened sometime during the week, usually between Monday and Thursday. I stopped doing this because there would be entire weeks with very poor attendance because a CS class had a midterm, and half of the organizers were in that class. A happy result of a when2meet changed the time to Sunday at 6pm, and I’ve found this to be a much better time because there are almost never any hard commitments that take priority over All Hands, so it’s much more common for everyone to show up.
 
 I, personally, strongly believe All Hands should run on a weekend, Saturday or Sunday. Evening classes and midterms should not be something that tanks attendance. Eliminate as many reasons to not show up as possible.
 
@@ -62,9 +62,11 @@ After in-person All Hands I invite everyone to dinner who wants to, making it cl
 
 ## Why do we do it this way?
 
-Most All Hands are online because All Hands is meant to be a 30 minute/week commitment. Running it in person means it suddenly becomes an hour-long commitment because of commuting back and forth. Given the goal of All Hands, I think 1 hour is too much time to commit to, and I care that All Hands feels like it’s worth the time of those who come.
+Most All Hands are online because All Hands is meant to be a 30 minute/week commitment. Running it in person means it suddenly becomes an hour-long commitment because of commuting back and forth. Given the goal of All Hands, I think 1 hour is too much time to commit to, so we don’t run All Hands in person every week.
 
 That said, online meetings can be somewhat antisocial/dehumanizing/etc — or, rather, you lose a level of connection with others if you only ever see them online. Especially on Discord, which has less of a “camera-on” culture. Many of us learned this in 2020. So All Hands runs in-person once per month. These in-person All Hands are no different from the ones that run online, except for the fact that they run in person in Lawson. The goal is to make sure we all remain humans to each other instead of Discord avatars.
+
+The reason we use Lawson for in-person All Hands is because our office gives us swipe access to the building, which is locked on weekends, so we can count on getting access to a classroom. We’re not tied to Lawson specifically, but we need 1) to not pay, 2) to count on having space, and 3) for the space to fit 17 people, and Lawson checks all those requirements for us.
 
 # Structure
 
@@ -140,7 +142,7 @@ However, All Hands still tended to last ~45 minutes.
 
 ### Spring 2024
 
-Around late January/early February, we began adding follow-up discussions and started running All Hands over Discord.
+Around late January/early February, we began doing follow-up discussions and running All Hands over Discord.
 
 <details>
 
