@@ -92,7 +92,71 @@ If I noticed that someone didn’t show up and didn’t inform the team ahead of
 
 ## Past structures
 
-TODO
+### 2021-22
+
+Weekly meetings, ~1 hour long, discussion-based. See “Why is All Hands not a discussion meeting?”
+
+### Fall 2022
+
+Discussion about various things going on in Purdue Hackers. Sub-team check-ins. 45 minutes, over Zoom.
+
+Notes from a Fall 2022 meeting: https://talented-stew-2af.notion.site/09-22-2022-Meeting-Notes-abaa55ce482146a8af64442b5bc4e59c
+
+### Spring 2023
+
+Team structure moved to projects with DRIs instead of subteams in February 2023. All Hands started to resemble a project check-in meeting:
+
+<details>
+
+<summary>Announcement of a Spring ’23 All Hands</summary>
+
+![](img/s23-announcement.png)
+
+</details>
+
+However, All Hands still lasted 45-50 minutes, and much of it was me talking. Still over Zoom.
+
+### Fall 2023
+
+All Hands began to take on a more strictly “project updates” approach:
+
+<details>
+
+<summary>Fall 2023 All Hands announcement</summary>
+
+![](img/f23-announcement.png)
+
+</details>
+
+<details>
+
+<summary>Fall 2023 feedback</summary>
+
+![](img/f23-feedback.png)
+
+</details>
+
+However, All Hands still tended to last ~45 minutes.
+
+### Spring 2024
+
+Around late January/early February, we began adding follow-up discussions.
+
+<details>
+
+<summary>Spring 2024 All Hands announcement</summary>
+
+![](img/s24-announcement.png)
+
+</details>
+
+<details>
+
+<summary>Spring 2024 All Hands announcement</summary>
+
+![](img/s24-feedback.png)
+
+</details>
 
 # Misc
 
