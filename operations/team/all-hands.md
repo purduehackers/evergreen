@@ -140,7 +140,7 @@ However, All Hands still tended to last ~45 minutes.
 
 ### Spring 2024
 
-Around late January/early February, we began adding follow-up discussions.
+Around late January/early February, we began adding follow-up discussions and started running All Hands over Discord.
 
 <details>
 
@@ -157,6 +157,8 @@ Around late January/early February, we began adding follow-up discussions.
 ![](img/s24-feedback.png)
 
 </details>
+
+This made meetings run closer to 30 minutes again.
 
 # Misc
 
