@@ -46,11 +46,11 @@ Part of the social contract of All Hands is that, in exchange for your time, you
 
 # When
 
-All Hands runs every Sunday at 6pm. The goal is for it to last 30 minutes, but most time it runs 5-10 minutes over.
+All Hands runs every Sunday at 6pm. The goal is for it to last 30 minutes, but most of the time it runs 5-10 minutes over.
 
-Early on during my leadership (2022-23), I sent out a when2meet and chose the time that worked best for most people. This meant all hands happened sometime during the week, usually between Monday and Thursday. I stopped doing this because there would be entire weeks with very poor attendance because a CS class had a midterm, and half of the organizers were in that class. I don’t remember when I chose Sunday at 6pm—I actually think it might have been a happy result of a when2meet—but I’ve found it to be a much better time because there are almost never any hard commitments that take priority over all hands, so it’s much more common for everyone to show up.
+Early on during my leadership (2022-23), I sent out a when2meet and chose the time that worked best for most people. This meant All Hands happened sometime during the week, usually between Monday and Thursday. I stopped doing this because there would be entire weeks with very poor attendance because a CS class had a midterm, and half of the organizers were in that class. I don’t remember when it became Sunday at 6pm—I actually think it might have been a happy result of a when2meet—but I’ve found it to be a much better time because there are almost never any hard commitments that take priority over All Hands, so it’s much more common for everyone to show up.
 
-I, personally, strongly believe All Hands should run on a weekend, Saturday or Sunday. Evening classes and midterms should not be something that tanks attendance. Eliminate as many reasons to now show up as possible.
+I, personally, strongly believe All Hands should run on a weekend, Saturday or Sunday. Evening classes and midterms should not be something that tanks attendance. Eliminate as many reasons to not show up as possible.
 
 # Where
 
