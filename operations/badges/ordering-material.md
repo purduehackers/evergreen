@@ -1,4 +1,4 @@
-_Originally written on September 20th by Matthew Stanciu_
+_Originally written on September 20th, 2024 by Matthew Stanciu_
 
 The vast majority of our badges are made with acrylic purchased from Canal Plastics in New York. We have also made badges out of plywood from Menards in the past, and there are many opportunities for badge materials that remain unexplored, such as various metals and other random things that are safe to laser cut.
 
