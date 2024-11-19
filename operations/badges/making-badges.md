@@ -34,6 +34,7 @@ When you're finished, export your design in .svg and put it on Figma.
 
 ## Common Pitfalls
 * If you use text effects like warp or use fonts that don't exist on Figma, you need to "Create Outline" of the text. This will make the text vector shapes. Note that this results in the text being non-editable so do this after you've finalized the design or after you make a backup.
+* Always make sure the cut line is `#FF0000`, not any other shade of red. Trotec Ruby only recognizes `#FF0000`. This can be fixed in Ruby itself, so it's not a big deal, but it's better to get it right in the design so that we don't risk missing it when we make the badge & not having the cut line work.
 ### Cutting Path 
 There are three main things that can happen: <br>
 * Correct: If you import a connected path of a red line from your graphics software of choice, Figma will see it as a single vector path, Ruby (software for laser cutting) sees it as a vector, the laser cutter does one smooth pass
@@ -54,6 +55,11 @@ Add the titles of the stamp (- Hack Night ## - MM DD YYYY -) and update it to cu
 Align everything together to where you want everything to be. Select everything and invert the colors. <br>
 Now copy paste the outline shape, get rid of the fill, and make it red (#FF0000). <br><br>
 This process is very doable within Figma, but if it isn't on there already, put your stamp design on Figma as well.
+
+## Common pitfalls
+
+* Although grayscale is allowed in badge designs, never use grayscale in a stamp; **only use `#000000` and `#FFFFFF`.
+  * If you think about the way the stamp works: the laser cutter will engrave (or, shave a layer off the top of) the rubber everywhere it's black, and leave everything that's white. So the white parts will be protruding out uniformly, and black parts inward uniformly, so the white parts will stamp nicely. If you add grayscale, it will just shave off less of the top of the rubber, so it'll be set inward from the white parts and won't appear when you actually stamp it.
 
 # 5. Laser cut badge
 Prerequisite: be certified and reserve a time slot.
