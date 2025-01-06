@@ -1,6 +1,5 @@
-# Design Doc
+# PDF Concat Design Doc
 
-Project Name: Passport PDF Concat
 DRI: [Ray](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/rayhanadev.md)
 
 ## Objective
