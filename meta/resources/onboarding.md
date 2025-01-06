@@ -62,7 +62,7 @@ Most Sundays at 6:00 PM EST, we have all-hands meetings where we discuss club up
 information. **You must attend these meetings**, as they are crucial for keeping up-to-date with the club's operations. If
 you can't make it to a meeting, make sure organizers know ahead of time.
 
-All of our meeting notes are stored in [org-info/meeting-notes/all-hands](../meeting-notes/all-hands). If you
+All of our meeting notes are stored in [meta/meeting-notes/all-hands](../meeting-notes/all-hands). If you
 want to see what was discussed in previous meetings, you can check out the meeting notes there.
 
 For more info on All Hands, check out the [README](../meeting-notes/all-hands/README.md).
