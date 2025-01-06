@@ -36,8 +36,8 @@ channel! :)
 ### Access to Github Organization
 
 Also make sure you have access to the club's [GitHub organization](https://github.com/purduehackers). You will need to be
-assigned to the `Hackers` team and the `Core` team to access the club's repositories. If you don't have access, ask in the
-[#core](https://discord.com/channels/772576325897945119/890595036855685181) channel and an organizer will help you out.
+assigned to the `Organizers` team to access the club's repositories. If you don't have access, ask in the [#core](https://discord.com/channels/772576325897945119/890595036855685181)
+channel and an organizer will help you out.
 
 ### Access to Google Drive
 
@@ -47,8 +47,9 @@ channel and an organizer will help you out.
 
 ### Add Contact Information
 
-Fork this repository and add your name and Discord username to the [roles](../structure/roles.md) document. This will help
-us keep track of who's who in the club and make it easier for other members to reach out to you!
+Create a branch on [purduehackers/dark-forest](https://github.com/purduehackers/dark-forest) repository and use the template to
+add yourself to the `people` directory. This will help us keep track of who's who in the club and make it easier for other members
+to reach out to you!
 
 ### Access to Figma Organization (Optional)
 
@@ -61,10 +62,10 @@ Most Sundays at 6:00 PM EST, we have all-hands meetings where we discuss club up
 information. **You must attend these meetings**, as they are crucial for keeping up-to-date with the club's operations. If
 you can't make it to a meeting, make sure organizers know ahead of time.
 
-All of our meeting notes are stored in [org-info/meeting-notes/all-hands](../org-info/meeting-notes/all-hands). If you
+All of our meeting notes are stored in [org-info/meeting-notes/all-hands](../meeting-notes/all-hands). If you
 want to see what was discussed in previous meetings, you can check out the meeting notes there.
 
-For more info on All Hands, check out the [README](../org-info/meeting-notes/all-hands/README.md).
+For more info on All Hands, check out the [README](../meeting-notes/all-hands/README.md).
 
 ## Communications
 
