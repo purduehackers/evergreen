@@ -14,8 +14,8 @@ projects. They are also encouraged to attend all-hands meetings and provide feed
 - [@kartva](https://github.com/purduehackers/dark-forest/blob/main/people/hack-bishops/infinidoge.md)
 - [@wolfthatisinthestateofbeingalone](https://github.com/purduehackers/dark-forest/blob/main/people/hack-bishops/wolfthatisinthestateofbeingalone.md)
 - @almondman
-- [@theshadoweevee](https://github.com/purduehackers/dark-forest/blob/ray/refactor/people/hack-bishops/theshadoweevee.md)
+- [@theshadoweevee](https://github.com/purduehackers/dark-forest/blob/main/people/hack-bishops/theshadoweevee.md)
 - @oohwo
-- @__brennan
+- [@__brennan](https://github.com/purduehackers/dark-forest/blob/main/people/hack-bishops/__brennan.md)
 - @magician3124
 - @jia000
