@@ -53,7 +53,7 @@ to reach out to you!
 
 ### Access to Figma Organization (Optional)
 
-If you need access to the Figma organization as a designer, please reach out the Design Lead (reach out to Matthew (@hewillyeah)
+If you need access to the Figma organization as a designer, please reach out the Design Lead (reach out to [Matthew](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/hewillyeah.md)
 as we're in the process of getting a new Design Lead).
 
 ## All-Hands Meetings

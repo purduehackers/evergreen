@@ -9,8 +9,9 @@ the space with them and have a few desks and a whiteboard.
 The office currently has the [Hack Cart](../../../events/hack-night/hack-cart.md) and some of our older items
 that are not currently in use. The office is open to all members of the organization and is a quiet space to work.
 
-To get access to the office, you will need to contact Lillith (@infinidoge1337) to put in a request for a keyfob on
-your behalf. The office is accessible 24/7 with your keyfob (so long as the building is open).
+To get access to the office, you will need to contact [@infinidoge](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/infinidoge.md)
+to put in a request for a keyfob on your behalf. The office is accessible 24/7 with your keyfob (so long as the
+building is open).
 
 ## Access List
 
