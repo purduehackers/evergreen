@@ -4,7 +4,10 @@ This folder contains resources used by the Finances Division to budget and manag
 
 ## Members
 
-Division Lead: [Ray](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/rayhanadev.md)
+Division Lead: **None**
+
+Members:
+- [Ray](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/rayhanadev.md)
 
 ## Resources
 
