@@ -13,14 +13,14 @@ Members:
 
 **Main Events**
 
-- [Hack Night](./hack-night/README.md)
-- [Passport Ceremonies](./passport-ceremonies/README.md)
-- [Workshops](./workshops/README.md)
+- [Hack Night](/events/hack-night/README.md)
+- [Passport Ceremonies](/events/passport-ceremonies/README.md)
+- [Workshops](/events/workshops/README.md)
 
 **Seasonal Events**
 
-- [Commit Overflow](./commit-overflow/README.md)
+- [Commit Overflow](/events/commit-overflow/README.md)
 
 **Past Events**
 
-- [BURST ✷ (Fall 2024)](./archive/burst-f24/README.md)
+- [BURST ✷ (Fall 2024)](/events/archive/burst-f24/README.md)

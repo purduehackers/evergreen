@@ -6,7 +6,7 @@ floor, Room B128.
 The office is currently co-habitated with the [Purdue Linux Users Group (PLUG)](https://purduelug.org/). We share
 the space with them and have a few desks and a whiteboard.
 
-The office currently has the [Hack Cart](../../../events/hack-night/hack-cart.md) and some of our older items
+The office currently has the [Hack Cart](/events/hack-night/hack-cart.md) and some of our older items
 that are not currently in use. The office is open to all members of the organization and is a quiet space to work.
 
 To get access to the office, you will need to contact [@infinidoge](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/infinidoge.md)

@@ -18,15 +18,15 @@ member leaves, which is usually around 6:00 AM the following day.
 
 ## Setup
 
-Refer to the [Setup](./setup.md) guide for information on how to set up Hack Night.
+Refer to the [Setup](/events/hack-night/setup.md) guide for information on how to set up Hack Night.
 
 ## Teardown
 
-Refer to the [Teardown](./teardown.md) guide for information on how to teardown Hack Night.
+Refer to the [Teardown](/events/hack-night/teardown.md) guide for information on how to teardown Hack Night.
 
 ## Resources
 
-- [Reading Circles](./circles/README.md)
-- [Sessions](./sessions/README.md)
-- [Countdown](./countdown.md)
-- [Checkpoints](./checkpoints.md)
+- [Reading Circles](/events/hack-night/circles/README.md)
+- [Sessions](/events/hack-night/sessions/README.md)
+- [Countdown](/events/hack-night/countdown.md)
+- [Checkpoints](/events/hack-night/checkpoints.md)

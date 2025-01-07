@@ -1,6 +1,6 @@
 # Checkpoints
 
-Checkpoints (formerly known as Demos) occur after the [Countdown](./countdown.md) and are a time for members to show off
+Checkpoints (formerly known as Demos) occur after the [Countdown](/events/hack-night/countdown.md) and are a time for members to show off
 what they worked on during Hack Night. Checkpoints encourage members to share bits of their progress and are a time for
 us to find and encourage new members to share their work.
 
@@ -27,5 +27,5 @@ great way to get new members involved!
 ## Teardown
 
 Once all members have presented, thank everyone for participating and encourage them to continue working on their projects,
-Hack Night will keep doing until the last person leaves. Ensure the [Dashboard](../engineering/dashboard/README.md) is
+Hack Night will keep doing until the last person leaves. Ensure the [Dashboard](/engineering/dashboard/README.md) is
 plugged in again and return the speaker to the Hack Cart.

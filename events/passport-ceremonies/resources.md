@@ -8,7 +8,7 @@ This document outlines the materials, tools, and machines used to make Passports
 - [Cricut Heat Transfer Vinyl Pattern](https://design.cricut.com/landing/project-detail/65b01499c0054073ce1e8c31)
 - [Cricut Black Cardstock Pattern](https://design.cricut.com/landing/project-detail/65b13683ac4d171a1415fd32)
 - [Cricut Laminated Cards](https://design.cricut.com/landing/project-detail/65b1adf57814d93c7661d8aa)
-- [Stamp Pages](./assets/stamp-pages.pdf)
+- [Stamp Pages](/events/passport-ceremonies/assets/stamp-pages.pdf)
 - Leather Template Laser Cutting File (NOTE: This file is not available yet)
 
 Note: The Cricut patterns (annoyingly) are not available to the public. If you need access to them, please contact

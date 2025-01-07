@@ -1,7 +1,7 @@
 # Sessions
 
 Sessions are typically run from 10:00 PM to 11:00 PM, where a Hack Night member will present a topic or lead a discussion
-on a topic. Sessions are more spontaneous than [Reading Circles](../circles/README.md) and can be on any topic, often
+on a topic. Sessions are more spontaneous than [Reading Circles](/events/hack-night/circles/README.md) and can be on any topic, often
 a concept related to computer science or technology.
 
 Sessions are also a great way to incorporate any sponsors or guest speakers, as they can present on a topic of their
@@ -41,11 +41,11 @@ session isn't well-attended, talk to members and encourage them to attend. Organ
 the session.
 
 Ensure the session starts on time and that the presenter is ready to present. Make sure it doesn't run over the
-allotted time, nor does it drag on if the presenter finishes early. Sometime in the middle of the session, the [Pizza](../pizza.md)
+allotted time, nor does it drag on if the presenter finishes early. Sometime in the middle of the session, the [Pizza](/events/hack-night/pizza.md)
 should arrive, so ensure that the presenter is aware of this.
 
 ### Post Session
 
 After the session, thank the presenter for their time and effort. If the session was well-received, consider having
 them present again in the future. If there is outstanding reception, consider exploring a conversion to a
-[Reading Circle](../circles/README.md).
+[Reading Circle](/events/hack-night/circles/README.md).

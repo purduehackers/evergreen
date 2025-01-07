@@ -1,4 +1,4 @@
-> This is a transcription of [./materials/constitution-2016.pdf](./materials/constitution-2016.pdf) into readable
+> This is a transcription of [./materials/constitution-2016.pdf](/meta/resources/materials/constitution-2016.pdf) into readable
 > Markdown format. This document is outdated and does not necessarily reflect the current state of Purdue Hackers. A
 > new constitution should be drafted and approved by the community in the near future.
 
@@ -13,7 +13,7 @@ The name of the organization shall be "Purdue Hackers", and shall be referred to
 The emblem of the community is a glider from conway's game of life. It represents the continuity of the hacker
 culture:
 
-![](./materials/logo-constitution.jpg)
+![](/meta/resources/materials/logo-constitution.jpg)
 
 The community may find itself in situations where the Administration, Media, and various observers confuse the definition
 of "hacker" with that of a "cracker," in which case the following should be cited:

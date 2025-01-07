@@ -1,12 +1,12 @@
 # Passport PDF Concat
 
-This is a script will concatenate [Passport](../README.md) Data Pages in a single PDF file to conserve paper
+This is a script will concatenate [Passport](/engineering/passports/README) Data Pages in a single PDF file to conserve paper
 when printing.
 
 ## Quick Links
 
 - [Github Repo](https://github.com/rayhanadev/passport-pdf-concat)
-- [Design Doc](./DESIGN_DOC.md)
+- [Design Doc](/engineering/passports/pdf-concat/DESIGN_DOC.md)
 
 ## Key Information
 

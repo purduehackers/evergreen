@@ -79,7 +79,7 @@ to the leather cover.
 
 Immediately after the participant finishes glueing their passport, the organizer should activate their passport.
 
-1. Take the passport from the participant and activate it using the [Passport Authority](../../engineering/passports/authority/README.md).
+1. Take the passport from the participant and activate it using the [Passport Authority](/engineering/passports/authority/README.md).
 2. Once the passport is activated, place it underneath a heavy surface (e.g. some books) and tell them to wait for one hour (or until they leave)
   before taking it out. This will ensure the glue has some time to dry. If the participant is leaving, tell them to place it
   under a heavy surface for at least 24 hours once they get home so the glue can fully dry.

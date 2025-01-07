@@ -4,7 +4,7 @@ DRI: [Ray](https://github.com/purduehackers/dark-forest/blob/main/people/organiz
 
 ## Objective
 
-This is a script will concatenate [Passport](../README.md) Data Pages in a single PDF file.
+This is a script will concatenate [Passport](/engineering/passports/README.md) Data Pages in a single PDF file.
 
 ## Background
 
@@ -15,7 +15,7 @@ a single file, and print them all. It is also wasteful to print each page indivi
 
 ### Stakeholders
 
-Officers in Purdue Hackers who are responsible for printing Passport Data Pages for [Prep](../../events/passport-ceremonies/prep.md)
+Officers in Purdue Hackers who are responsible for printing Passport Data Pages for [Prep](/events/passport-ceremonies/prep.md)
 
 ### Existing Solutions
 

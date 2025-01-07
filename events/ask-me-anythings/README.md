@@ -69,4 +69,4 @@ using OBS Studio and streaming to the Purdue Hackers Youtube channel.
 3. *Optional.* Timestamp the recording. This can be done by adding timestamps to the video description or by using a
    tool like [youtubemark](https://youtubemark.com/).
 4. **Thank the speaker.** Send a thank you email to the speaker and thank them for their time!! Also ask if they would
-   be interested in joining our [VIP Newsletter](../../comms/outreach/vip-newsletter/README.md)
+   be interested in joining our [VIP Newsletter](/comms/outreach/vip-newsletter/README.md)

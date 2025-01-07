@@ -17,12 +17,12 @@ Prior to Prep, ensure that you have sufficient amounts of the following material
 - 8.5" x 11" 5mm Laminate Sheets
 - 1/8" Clear Acrylic Block
 
-If you need to do shopping, see [Resources](./resources.md).
+If you need to do shopping, see [Resources](/events/passport-ceremonies/resources.md).
 
 Also download the following files:
 
-- [Data Pages](../../engineering/passports/pdf-concat/README.md)
-- [Stamp Pages](./assets/stamp-pages.pdf)
+- [Data Pages](/engineering/passports/pdf-concat/README.md)
+- [Stamp Pages](/events/passport-ceremonies/assets/stamp-pages.pdf)
 - [Cricut Heat Transfer Vinyl Pattern](https://design.cricut.com/landing/project-detail/65b01499c0054073ce1e8c31)
 - [Cricut Black Cardstock Pattern](https://design.cricut.com/landing/project-detail/65b13683ac4d171a1415fd32)
 - [Cricut Laminated Cards](https://design.cricut.com/landing/project-detail/65b1adf57814d93c7661d8aa)
@@ -129,7 +129,7 @@ cardstock layer, and laminate cards).
 Printing the data pages and stamp pages is the sixth step and final in the Prep process. You will be printing the data pages on
 8.5" x 14" White Cardstock and the stamp pages on 8.5" x 11" Printer Paper.
 
-1. Generate the data pages using the [Passport Concatenator](../../engineering/passports/pdf-concat/README.md).
+1. Generate the data pages using the [Passport Concatenator](/engineering/passports/pdf-concat/README.md).
 2. Email the data pages and the stamp pages to yourself.
 3. Go to the HP LaserJet Printer in the Knowledge Lab.
 4. Log in to the printer using your Purdue email.
