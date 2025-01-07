@@ -1,3 +1,3 @@
 # Registration
 
-[TODO(@hewillyeah): Add information about the re-registration process]
+[TODO(@MatthewStanicu): Add information about the re-registration process]

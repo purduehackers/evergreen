@@ -8,4 +8,4 @@ The Hack Cart should be cleaned up and returned to the Lawson Office after Hack 
 
 ## Supplies
 
-[TODO: Take inventory of the Hack Cart]
+[TODO(@ZacharyKirkeby): Take inventory of the Hack Cart]
