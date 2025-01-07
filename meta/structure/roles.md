@@ -117,7 +117,7 @@ The Finance Division is responsible for all club financial matters, including bu
 
 ### Treasurer
 
-> Current Treasurer: [Ray](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/rayhanadev.md)
+> Current Treasurer: **None**
 
 The Treasurer is responsible for managing the club's finances. They work closely with the President to ensure that the club
 has the necessary funds to operate and that all financial transactions are properly recorded and accounted for. The Treasurer
