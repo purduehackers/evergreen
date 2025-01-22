@@ -4,10 +4,11 @@ This folder contains resources used by the Finances Division to budget and manag
 
 ## Members
 
-Division Lead: **None**
+Division Lead: [@joshamstutz](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/joshamstutz.md)
 
 Members:
 - [Ray](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/rayhanadev.md)
+- [@phineas1500](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/phineas1500.md)
 
 ## Resources
 
