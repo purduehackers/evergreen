@@ -18,7 +18,7 @@ building is open).
 These individuals have been provisioned access to the office:
 
 - [Matthew](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/hewillyeah.md)
-- @corporal98
+- [@corporal98](https://github.com/purduehackers/dark-forest/blob/main/people/past-organizers/corporal98.md)
 - [@stopwatchtt](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/stopwatchtt.md)
 - [@imthesquid](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/imthesquid.md)
 - [@infinidoge](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/infinidoge.md)
