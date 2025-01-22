@@ -11,11 +11,11 @@ projects. They are also encouraged to attend all-hands meetings and provide feed
 
 ## Current Hack Bishops
 
-- [@kartva](https://github.com/purduehackers/dark-forest/blob/main/people/hack-bishops/infinidoge.md)
-- [@wolfthatisinthestateofbeingalone](https://github.com/purduehackers/dark-forest/blob/main/people/hack-bishops/wolfthatisinthestateofbeingalone.md)
-- @almondman
-- [@theshadoweevee](https://github.com/purduehackers/dark-forest/blob/main/people/hack-bishops/theshadoweevee.md)
-- @oohwo
 - [@__brennan](https://github.com/purduehackers/dark-forest/blob/main/people/hack-bishops/__brennan.md)
+- [@almondman](https://github.com/purduehackers/dark-forest/blob/main/people/hack-bishops/almondman.md)
+- [@jia000](https://github.com/purduehackers/dark-forest/blob/main/people/hack-bishops/jia000.md)
+- [@kartva](https://github.com/purduehackers/dark-forest/blob/main/people/hack-bishops/kartva.md)
+- [@oohwo](https://github.com/purduehackers/dark-forest/blob/main/people/hack-bishops/oohwo.md)
+- [@theshadoweevee](https://github.com/purduehackers/dark-forest/blob/main/people/hack-bishops/theshadoweevee.md)
+- [@wolfthatisinthestateofbeingalone](https://github.com/purduehackers/dark-forest/blob/main/people/hack-bishops/wolfthatisinthestateofbeingalone.md)
 - @magician3124
-- @jia000
