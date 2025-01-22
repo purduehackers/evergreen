@@ -18,7 +18,7 @@ for more information on the events where Passports are created.
 ## Key Information
 
 - **Status**: Active
-- **Maintainer**: Matthew (@hewillyeah)
+- **Maintainer**: [Matthew](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/hewillyeah.md)
 
 ## Projects
 

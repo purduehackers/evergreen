@@ -28,7 +28,6 @@ cd passport-pdf-concat
 bun install
 ```
 
-
 ## Usage
 
 ```bash
