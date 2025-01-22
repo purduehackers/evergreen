@@ -25,6 +25,7 @@ that all sub-divisions within the Communications Division are running smoothly a
 
 ### Communications Team
 
+> Current Communications Team:
 > - Fundraising Lead: [@phineas1500](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/phineas1500.md)
 > - Social Media Lead: [@jaddenki](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/jaddenki.md)
 > - Newsletter Lead: [@nullpsy](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/nullpsy.md)
@@ -103,9 +104,9 @@ The Events Division is responsible for all club events, including Hack Night, wo
 The Events Division Lead is the point of contact for all events-related matters. They are responsible for ensuring that all
 events within the Events Division are running smoothly and are in line with the club's goals.
 
-### Event Coordinators
+### Events Team
 
-> Current Event Coordinators:
+> Current Events Team:
 > - [Ray](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/rayhanadev.md)
 > - [Zach](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/iracc__.md)
 

@@ -7,13 +7,11 @@ the chain of command goes.
 President/
   ├── Treasurer
   ├── Events Division Lead/
-  │   └── Events Coordinator
+  │   └── Events Team
   ├── Engineering Division Lead/
   │   └── Engineer
   ├── Design Division Lead/
   │   └── Designer
   └── Communications Division Lead/
-      ├── Fundraising Lead
-      ├── Social Media Manager
-      └── Newsletter Manager
+      └── Communications Team
 ```
