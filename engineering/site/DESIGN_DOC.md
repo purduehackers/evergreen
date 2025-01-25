@@ -75,8 +75,9 @@ tldr: tell everyone how cool we are
 - Event Fields: Fields: Title, date/time, location, description, RSVP link
 - Contact Fields: Email address, social media links
 
-### Design/UI/UX
-*Insert brand design links, figma
+### UI/UX Design
+- Brand Figma: https://www.figma.com/design/3hvWVV9EF86eJJunNnN1w3/Designs?node-id=0-1&t=UTTgOYXRKbkijHh6-1
+- Site Prototype: https://site-24.vercel.app/ 
 
 ### Deployment
 Link Vercel Deployment
