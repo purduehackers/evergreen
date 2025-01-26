@@ -54,19 +54,17 @@ The goal of this project is creating a Discord bot that can help keep track of a
 
 ## Design
 
-idk what to put here!
+- Developed in Python with uhhhh some discord bot package idr which tho
+- Will be ran on Purdue Hackers' Vulcan server.
+- Attendance data will be added to a csv file, which will be hosted... somewhere. Ideally somewhere on github. Need to work out specifics.
 
 ## Milestones
 
-- Some time during Fall 2024: Bot was initially created
-- No later than the end of February 2025, the bot should be able to have all core functionality completed.
+- Some time during Fall 2024: Bot was initially created.
+- Hack Night 5.15: Bot code will be on Github.
+- No later than the end of February 2025: the bot should be able to have all core functionality completed.
 
 ## Additional Considerations
-
-### Performance
-
-- Will be ran on Purdue Hackers' Vulcan server.
-- 
 
 ### Security
 
