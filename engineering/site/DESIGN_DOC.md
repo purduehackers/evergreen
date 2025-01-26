@@ -4,18 +4,13 @@
 
 ## Objective
 
-The landing page for Purdue Hackers...
-
-Design and build a user-friendly landing page for Purdue Hackers that embodies our unique brand and serves as a front-facing resource for people to learn more about the club (what we do and how to join) 
-inform about our main events (hack night, community, ...)
-
-tldr: tell everyone how cool we are
+Design and build a new landing page for Purdue Hackers that embodies our unique brand and serves as a public-facing resource for people to learn more about the club (what we do and how to join).
 
 ## Background
 
 ### Problem
 
-- Current site is out of date, need a new updated site to reflect new branding and represent our online presence 
+- Current site is out of date, need an updated site to reflect new branding and represent our online presence 
 - Need a dedicated website to communicate what the club does and how interested individuals can get involved
 
 ### Stakeholders
@@ -36,13 +31,9 @@ tldr: tell everyone how cool we are
 ### Goals
 
 - Create an engaging and informative landing page to introduce the Purde Hackers to the public
-
 - Highlight the club's mission, past projects, and upcoming events
-
 - Provide a clear and user-friendly process for joining the club
-
 - Ensure the site is mobile-friendly and accessible to all users
-
 - Include contact information and links to the club's Discord, blog, social media channels, and other relevant resources
 
 ### Non-Goals
@@ -68,35 +59,37 @@ tldr: tell everyone how cool we are
 - Modular, component-based structure
 - Integration of third-party libraries when necessary (i.e. for 3D rendering, animations)
 
-
 ### Content
 - Landing Page Content:
-- Page sections: Hero, club overview, Hack Night (featured projects, passport cermonies?), community/workshops, blob, sponsorship info, call to action
-- Event Fields: Fields: Title, date/time, location, description, RSVP link
+- Page sections: Hero, club overview, Hack Night (featured projects, passport cermonies), Community/Workshops, blog, sponsorship info, call to action
+- Event Fields: Title, date/time, location, description
 - Contact Fields: Email address, social media links
 
+- TODO: Update this with more specifics
+
 ### UI/UX Design
-- Brand Figma: https://www.figma.com/design/3hvWVV9EF86eJJunNnN1w3/Designs?node-id=0-1&t=UTTgOYXRKbkijHh6-1
-- Site Prototype: https://site-24.vercel.app/ 
+- [Brand Figma](https://www.figma.com/design/3hvWVV9EF86eJJunNnN1w3/Designs?node-id=0-1&t=UTTgOYXRKbkijHh6-1)
+- [Site Prototype](https://site-24.vercel.app/)
 
 ### Deployment
-Link Vercel Deployment
+[Link Vercel Deployment](https://vercel.com/purdue-hackers/site-24)
 
 ### Testing
 - Test for mobile, cross-browser compatibility, accessibility
 
 ## Milestones
 
-- 1: Finalize content structure, wireframes, and branding guidelines
-- 2: Develop and test the homepage and navigation
-- 4: Build additional pages (About, Events, Join Us)
-- 5: Conduct user testing and make adjustments based on feedback
-- 6: Launch website and promote on social media
+1. Finalize content structure, wireframes, and branding guidelines
+2. Build foundational site structure and sections (About, Events, Join Us, etc.)
+3. Conduct user testing and make adjustments based on feedback
+4. Iterate and polish
+5. Launch website and promote on social media
 
 ## Additional Considerations
 
 ### Performance
 - Optimize images and assets for quick loading times
+- Use SVG/PNG/JPG for images, GLTF for 3D assets
 -   (specify here) file types, rendering pipeline etc etc
 - Leverage static site generation for fast page delivery
 
