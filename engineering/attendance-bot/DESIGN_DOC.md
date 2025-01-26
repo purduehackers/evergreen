@@ -41,49 +41,41 @@ The goal of this project is creating a Discord bot that can help keep track of a
 > Full functionality for accessing a database of each hack night with the corresponding attendance values.
   > Capability to request a line plot of the current hack night attendance
   > Capability to request a readout of each individual attendance value and the time it was taken
-  > Capability to adjust 
+  > Capability to adjust attendance values from the current hack night, primarily to fix errors (i.e. if someone types in the headcount wrong)
 
 ### Non-Goals
 
-> What will this project not achieve?
-> Define the scope of the project to prevent scope creep.
+> The bot is going to be limited to Purdue Hackers specifically. Other organizations would have vastly different situational constraints.
+> If Purdue Hackers does ever automate tracking how many people enter with physical hardware, it is unlikely that this bot will integrate with that functionality directly.
 
 ### Constraints
 
-> Any limitations that the project must function within that aren't
-> immediately obvious.
+> it's currently hosted on my laptop whenever i feel like it and it needs to be moved to Vulcan lol - @stopwatchtt
 
 ## Design
 
-> How will this project be implemented? This section is more freeform and can vary
-> by person and project. Some suggested sub-headings:
-> - Architecture
-> - Implementation
-> - Data Models
-> - User Interface
-> - Deployment
-> - Testing
+idk what to put here!
 
 ## Milestones
 
-> Rough estimate of the timeline for the project. This can be broken down into
-> smaller milestones if needed. Can be dates or Hack Nights.
+> Some time during Fall 2024: Bot was initially created
+> No later than the end of February 2025, the bot should be able to have all core functionality completed.
 
 ## Additional Considerations
 
-### Security
-
-> Security concerns and how they will be addressed. (Optional)
-
 ### Performance
 
-> Performance needs and how they will be addressed. (Optional)
+> Will be ran on Purdue Hackers' Vulcan server.
+> 
+
+### Security
+
+> To protect the attendance data from tampering, the bot will likely need to look at user permissions and only allow organizers to add/alter any data.
 
 ### Maintenance
 
-> How will this project be maintained? Who will be responsible for it after
-> rollout?
+> DRI is @stopwatchtt. Once the project is on Github, anyone should be able to contribute changes.
 
 ## References
 
-> Optional. Links to any external resources that are relevant to the project.
+> None yet, but leaving this here for the future since there will be some stuff to put here eventually.
