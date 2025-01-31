@@ -4,9 +4,11 @@ DRI: [Phineas](https://github.com/purduehackers/dark-forest/blob/main/people/org
 
 ## Objective
 
-This is a script will concatenate [Passport](/engineering/passports/README.md) Data Pages in a single PDF file.
+We need to raise a lot of our club's money through fundraising. 
 
 ## Background
+
+Purdue Hackers requires thousands of dollars every year. Some of this we can get from university grants/programs, but...
 
 ### Problem
 
