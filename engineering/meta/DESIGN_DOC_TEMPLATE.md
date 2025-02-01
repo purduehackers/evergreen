@@ -1,3 +1,10 @@
+<!--
+    Please note this template is only meant to be used in the context of engineering.
+    If you are a non-engineer, please reference other documents within your respective
+    division for a better idea of a documentation standard. Non-engineering projects
+    should not use this template.
+-->
+
 # <PROJECT_NAME> Design Doc
 
 - **DRI**: @<YOUR_DISCORD_USERNAME>
