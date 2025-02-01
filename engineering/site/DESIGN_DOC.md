@@ -1,6 +1,6 @@
 # Site Design Doc
 
-- **DRI**: @letttttttuce
+- **DRI**: [@letttttttuce](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/letttttttuce.md)
 
 ## Objective
 
@@ -10,7 +10,7 @@ Design and build a new landing page for Purdue Hackers that embodies our unique 
 
 ### Problem
 
-- Current site is out of date, need an updated site to reflect new branding and represent our online presence 
+- Current site is out of date, need an updated site to reflect new branding and represent our online presence
 - Need a dedicated website to communicate what the club does and how interested individuals can get involved
 
 ### Stakeholders
@@ -51,7 +51,7 @@ Design and build a new landing page for Purdue Hackers that embodies our unique 
 ## Design
 
 ### Architecture
-- Frontend: Static website built with Next/React.js 
+- Frontend: Static website built with Next/React.js
 - Backend: Not required; content will be static or managed via a CMS (Sanity)
 - Hosting: Vercel
 

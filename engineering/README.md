@@ -9,7 +9,7 @@ Division Lead: **None**
 Members: [@ImTheSquid](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/imthesquid.md)
 - [@stopwatchtt](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/stopwatchtt.md)
 - [@fizzyapple12](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/fizzyapple12.md)
-- @letttttttuce
+- [@letttttttuce](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/letttttttuce.md)
 - [@infinidoge](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/infinidoge.md)
 
 ## Resources
