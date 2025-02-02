@@ -1,6 +1,6 @@
 # Wack Hacker Design Doc
 
-- **DRI**: [@rayhanadev](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/rayhanadev.md)
+- **DRI**: [Ray](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/rayhanadev.md)
 
 ## Objective
 
