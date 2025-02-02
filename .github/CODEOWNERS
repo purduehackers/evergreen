@@ -1,11 +1,10 @@
-/meta/meeting-notes    /                @MatthewStanciu @rayhanadev
 /meta/                                  @MatthewStanciu @rayhanadev
 
 # Comms Division
 /comms/fundraising/                     @Phineas1500
 /comms/marketing/                       # No one owns this yet
 /comms/outreach/alumni/                 @rayhanadev
-/comms/outreach/interclub/              @rayhanadev
+/comms/outreach/clubs-and-orgs/         @rayhanadev
 /comms/outreach/vip-newsletter/         @saahilaneja
 /comms/social/                          @jaddenki
 
@@ -14,7 +13,6 @@
 /design/badges/                         @ZacharyKirkeby
 
 # Engineering Division
-/engineering/attendance-bot/            @TheBlueTophat
 /engineering/beacons/                   @ImTheSquid
 /engineering/dashboard/                 @MatthewStanciu @rayhanadev
 /engineering/door-opener/               @FizzyApple12
@@ -28,11 +26,15 @@
 /engineering/passports/                 @MatthewStanciu
 /engineering/phone-bell/                @FizzyApple12
 /engineering/site/                      @lilianzlettuce
+/engineering/tabulus/                   @TheBlueTophat
 /engineering/the-sign/                  @ImTheSquid
 /engineering/vulcan/                    @Infinidoge
+/engineering/wack-hacker-bot/           @rayhanadev
 
 # Events Division
 /events/archive/                        @rayhanadev
+/events/ask-me-anythings/               @MatthewStanciu @rayhanadev
+/events/callouts/                       @MatthewStanciu @rayhanadev
 /events/commit-overflow/                @MatthewStanciu @rayhanadev
 /events/hack-night/                     @MatthewStanciu @rayhanadev
 /events/passport-ceremonies/            @MatthewStanciu @rayhanadev
@@ -40,15 +42,15 @@
 /events/workshops/                      @MatthewStanciu @rayhanadev
 
 # Finances Division
-/finances/budget/                       @rayhanadev @MatthewStanciu
-/finances/reimbursements/               @rayhanadev @MatthewStanciu
+/finances/budget/                       @joshamstutz
+/finances/reimbursements/               @joshamstutz @MatthewStanciu
 
 # Division Leads
 /engineering/                           @ImTheSquid
 /comms/                                 @Phineas1500
 /design/                                # No one owns this yet
 /events/                                @rayhanadev
-/finances/                              @rayhanadev
+/finances/                              @joshamstutz
 
 # Documentation Lead
 *                                       @rayhanadev
