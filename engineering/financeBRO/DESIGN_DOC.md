@@ -69,7 +69,7 @@ Design and build a new finance automator for Purdue Hackers to help track expens
 
 ## References
 
--[sheet template](https://docs.google.com/spreadsheets/d/1n6epUDNWOAmZClTKRHU1Ot_iVdGyYdDtgPNYTq5AZdA/edit?usp=sharing)
+- [sheet template](https://docs.google.com/spreadsheets/d/1n6epUDNWOAmZClTKRHU1Ot_iVdGyYdDtgPNYTq5AZdA/edit?usp=sharing)
 
 ## **TODO**
 
