@@ -4,7 +4,7 @@ Shining a spotlight on the cool projects being worked on at Hack Night.
 ## Key Information
 
 - **Status**: In Progress
-- **Maintainer**: Jack Hogan (@ImTheSquid)
+- **Maintainer**: [Jack](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/imthesquid.md)
 
 ## Quick Links
 

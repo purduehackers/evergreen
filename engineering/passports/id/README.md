@@ -4,7 +4,7 @@ The universal, passport-based authentication system for Purdue Hackers.
 
 ## Key Information
 - **Status**: Active
-- **Maintainer**: Jack Hogan (@ImTheSquid)
+- **Maintainer**: [Jack](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/imthesquid.md)
 
 ## Quick Links
 - [Main Repo](https://github.com/purduehackers/id)

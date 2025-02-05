@@ -1,6 +1,6 @@
 # The Sign Design Doc
 
-- **DRI**: @ImTheSquid
+- **DRI**: [Jack](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/imthesquid.md)
 
 ## Objective
 

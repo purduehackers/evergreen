@@ -4,7 +4,7 @@ The Sign projects the glory of Purdue Hackers wherever there’s an outlet and a
 ## Key Information
 
 - **Status**: Active
-- **Maintainer**: Jack Hogan (@ImTheSquid)
+- **Maintainer**: [Jack](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/imthesquid.md)
 
 ## Quick Links
 
