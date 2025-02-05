@@ -7,7 +7,7 @@ This folder contains resources used by the Events Division to plan and execute e
 Division Lead: [Ray](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/rayhanadev.md)
 
 Members:
-- [Zach](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/iracc__.md)
+- None
 
 ## Resources
 
