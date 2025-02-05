@@ -53,7 +53,7 @@ All Hack Night attendees working on projects that they’d like to talk about wi
 
 A small device that can be taken anywhere in Hack Night and display some basic information. Each beacon’s ID will be prominently displayed on the front alongside a short description of the project being worked on. A light on an extendable pole can be used to ping a beacon from the web interface to find it at Hack Night.
 
-![The concept for Beacons](Concept.jpeg)
+![The concept for Beacons](images/concept.jpeg)
 
 ### User Interface
 
