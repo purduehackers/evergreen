@@ -108,7 +108,6 @@ events within the Events Division are running smoothly and are in line with the 
 
 > Current Events Team:
 > - [Ray](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/rayhanadev.md)
-> - [Zach](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/iracc__.md)
 
 Event Coordinators are responsible for planning and executing club events. They ensure operations run smoothly during events
 and work closely with the other divisions to properly prepare for and execute events.
