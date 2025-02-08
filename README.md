@@ -11,7 +11,7 @@ Evergreen is for:
 
 ## Why does Evergreen exist?
 
-Purdue Hackers has been around since 2013, but very little of the first 10 years of its history was ever written down and has been lost to time. This made us feel like Purdue Hackers required constant reinvention from each generation of leadership, who could not learn from past mistakes & successes or build on top of previous values.
+Purdue Hackers has been around since 2013, but very little of the first 10 years of its history was ever written down and has been lost to time. This made Purdue Hackers require constant reinvention from each generation of leadership, who could not learn from past mistakes & successes or build on top of previous values.
 
 We believe that documentation is a core component of the solid foundation required to build resilient orgs. Without documentation, future student org leaders are forced to interpret its values and practices by playing a game of Telephone, which degrades it over time. From [Galactic Empire](https://blog.purduehackers.com/posts/galactic-empire):
 
