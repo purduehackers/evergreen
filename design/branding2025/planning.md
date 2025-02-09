@@ -1,7 +1,7 @@
 
 # Visual Identity
 
-- **DRIs**: @[firefoxofficial], @[okaibee], @[natlam2028]
+- **DRIs**: @[firefoxofficial], @[okaibee], @[lycheetart]
 
 ## Objective
 
