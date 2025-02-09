@@ -1,5 +1,4 @@
 # Badge standards for less problems
-Written by [@firefoxofficial](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/firefoxofficial.md)
 
 ## Software
 Any software that can export as SVG (Scalable Vector Graphics). Commonly used softwares are Adobe Illustrator, Figma, or Inkscape. 
