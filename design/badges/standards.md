@@ -1,7 +1,9 @@
 # Badge standards for less problems
 
 ## Software
-Any software that can export as SVG (Scalable Vector Graphics). Commonly used softwares are Adobe Illustrator, Figma, or Inkscape. 
+Any vector design software that can export as SVG (Scalable Vector Graphics). Adobe Illustrator and Inkscape are the most commonly-used ones.
+
+Inkscape is free, so if you don't have a Creative Cloud subscription etc., it's a good place to start.
 
 ## Building your badge
 Unless you are tracing over a design or have a complex design that requires a lot of nodes, refrain from using lines to build your badge, especially if this is your first one. The easiest way to begin building is by using primitives (circles, squares, polygons).
