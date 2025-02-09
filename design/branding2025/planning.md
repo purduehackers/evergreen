@@ -1,5 +1,5 @@
 
-# Visual Identity Refresh 2025 Doc
+# Visual Identity
 
 - **DRIs**: @[firefoxofficial], @[okaibee], @[natlam2028]
 
