@@ -1,3 +1,3 @@
-## How to make a badge
+# How to make a badge
 
 
