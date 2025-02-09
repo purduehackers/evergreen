@@ -58,7 +58,7 @@ as we're in the process of getting a new Design Lead).
 
 ### Access to Purdue Hackers Office (Optional)
 
-If you are a member of the Events Divison or otherwise need access to the Lawson Office where materials such as the [Hack Cart](/events/hack-night/hack-cart)
+If you need access to the Lawson Office, where materials such as the [Hack Cart](/events/hack-night/hack-cart)
 are stored, please ask in the [#office-and-inventory](https://discord.com/channels/772576325897945119/1330647820960530464) channel
 and ping [@infinidoge](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/infinidoge.md) or [Ray](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/rayhanadev.md)
 to get added to the access list.
