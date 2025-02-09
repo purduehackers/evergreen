@@ -31,8 +31,16 @@ This step is not always necessary, but it is recommended to ensure that the sess
 Once a presenter is found, have them prepare a presentation or discussion points. This can be a slide deck, a demo, or
 a list of talking points. The presenter should also be prepared to answer questions from the audience.
 
+You should also add the presenter to the [Workshops and Sessions Google Sheet](https://docs.google.com/spreadsheets/d/1fL30BDnY8E9bH3zBWa3Cp---Nk69wl-R4K0h_qmksaA/edit?usp=sharing)
+to keep a record of who is presenting and when. Update this sheet throughout the process to keep our records up to date.
+
 On the day of the session, ensure that the presenter is ready to present. Make sure they have all the resources needed
 for their presentation.
+
+Assign the `@Session Organizer` role to the presenter in the Discord server. This will give them
+access to the [#receipts](https://discord.com/channels/772576325897945119/1162620643859234856) channel
+and the [#workshops-and-sessions](https://discord.com/channels/772576325897945119/809620320234766347)
+channel. This allows us to communicate with them and provide them with the necessary resources.
 
 ### Run the Session
 
@@ -49,3 +57,6 @@ should arrive, so ensure that the presenter is aware of this.
 After the session, thank the presenter for their time and effort. If the session was well-received, consider having
 them present again in the future. If there is outstanding reception, consider exploring a conversion to a
 [Reading Circle](/events/hack-night/circles/README.md).
+
+Update the [Workshops and Sessions Google Sheet](https://docs.google.com/spreadsheets/d/1fL30BDnY8E9bH3zBWa3Cp---Nk69wl-R4K0h_qmksaA/edit?usp=sharing)
+to mark the session as complete.
