@@ -4,7 +4,7 @@ This folder contains assets and resources created by the Design Division for Pur
 
 ## Members
 
-Division Lead: @firefoxofficial
+Division Lead: **@firefoxofficial**
 
 Members:
 - [@natlam2028](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/lycheetart.md)
