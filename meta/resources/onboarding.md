@@ -56,6 +56,19 @@ to reach out to you!
 If you need access to the Figma organization as a designer, please reach out the Design Lead (reach out to [Matthew](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/hewillyeah.md)
 as we're in the process of getting a new Design Lead).
 
+### Access to Purdue Hackers Office (Optional)
+
+If you need access to the Lawson Office, where materials such as the [Hack Cart](/events/hack-night/hack-cart)
+are stored, please ask in the [#office-and-inventory](https://discord.com/channels/772576325897945119/1330647820960530464) channel
+and ping [@infinidoge](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/infinidoge.md) or [Ray](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/rayhanadev.md)
+to get added to the access list.
+
+### Access to Vaultwarden (Optional)
+
+If you need access to the club's password manager, Vaultwarden, ping[@infinidoge](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/infinidoge.md)
+in the [#core](https://discord.com/channels/772576325897945119/890595036855685181) channel to get account onboarding steps.
+This is useful for accessing shared accounts and other club resources.
+
 ## All-Hands Meetings
 
 Most Sundays at 6:00 PM EST, we have all-hands meetings where we discuss club updates, upcoming events, and other important
