@@ -38,8 +38,8 @@ On the day of the session, ensure that the presenter is ready to present. Make s
 for their presentation.
 
 Assign the `@Session Organizer` role to the presenter in the Discord server. This will give them
-access to the [#receipts](https://discord.com/channels/772576325897945119/1162620643859234856) channel
-and the [#workshops-and-sessions](https://discord.com/channels/772576325897945119/809620320234766347)
+access to the [#receipts](https://discord.com/channels/772576325897945119/1162620643859234856)
+and [#workshops-and-sessions](https://discord.com/channels/772576325897945119/809620320234766347) channels
 channel. This allows us to communicate with them and provide them with the necessary resources.
 
 ### Run the Session
