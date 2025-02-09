@@ -25,13 +25,13 @@ Figma, Adobe Illustrator*
 
 ### Goals
 1. Make a crazy cool website.
-2. Make enough 2d assets that can be interchangably used 
+2. Make enough 2d assets that can be interchangably used for flyers, brochures, and other promotional materials.
 3. Have easily accessible branding guide other designers can refer to
 4. Create a clear, cohesive, and beautiful visual branding to define Purdue Hackers by.
 
 ### Non-Goals
 Brainwash the masses with how awesome our style is.
-Be on the New York Times billboard.
+Be on the Times Square billboard.
 
 ## Milestones
 font needs to be finished
