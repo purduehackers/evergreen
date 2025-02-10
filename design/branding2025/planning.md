@@ -19,7 +19,6 @@ Purdue Hackers
 ### Existing Solutions
 Continue with current visual identity we have on our website and Instagram
 
-
 ## Requirements
 Figma, Adobe Illustrator*
 
