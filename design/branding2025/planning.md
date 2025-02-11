@@ -1,17 +1,17 @@
 
 # Visual Identity
 
-- **DRIs**: @[firefoxofficial], @[okaibee], @[lycheetart]
+- **DRIs**: [@firefoxofficial](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/firefoxofficial.md), [@okaibee](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/okaibee.md), [@lycheetart](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/lycheetart.md)
 
 ## Objective
 
-Visual identity refresh for Purdue Hackers that more accurately reflects our brand. 
+Visual identity refresh for Purdue Hackers that more accurately reflects our brand.
 
 ## Background
 
 ### Problem
 1. Our style, which is somewhat along the lines of neobrutalism, is a bit too common nowadays and does not fully reflect the identity that Purdue Hackers has; that is to say creative, innovative, fun and technical. Purdue Hackers members can be described as both makers and disruptors.
-2. There is not a cohesive understanding as to how to design something for Purdue Hackers, particularly 2d assets. If we are to reflect our brand more accurately, it is helpful to have a knowledge base and guide to jump off of while designing. The website does not have this problem, but a quick look at the Instagram reflects a wide variety of styles. Although not necessarily a bad thing, it is not the direction Purdue Hackers is moving in. 
+2. There is not a cohesive understanding as to how to design something for Purdue Hackers, particularly 2d assets. If we are to reflect our brand more accurately, it is helpful to have a knowledge base and guide to jump off of while designing. The website does not have this problem, but a quick look at the Instagram reflects a wide variety of styles. Although not necessarily a bad thing, it is not the direction Purdue Hackers is moving in.
 
 ### Stakeholders
 Purdue Hackers
@@ -34,14 +34,14 @@ Be on the Times Square billboard.
 
 ## Milestones
 font needs to be finished
-brand identity guide under [@okaibee] completed
+brand identity guide under [@okaibee](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/okaibee.md) completed
 cohesive understanding of assets needed to be made
 cohesive understanding of what the website will look like
 ??? need to ask and think
 
 ## Additional Considerations
-Designers afterwards should be able to use the branding guide to create new assets as they wish. 
-Assets designed should go through a couple rounds of review by other designers before being used on social media. 
+Designers afterwards should be able to use the branding guide to create new assets as they wish.
+Assets designed should go through a couple rounds of review by other designers before being used on social media.
 
 ## References
 
