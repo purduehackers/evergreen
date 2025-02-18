@@ -26,6 +26,7 @@ These individuals have been provisioned access to the office:
 - [@phineas1500](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/phineas1500.md)
 - [Zach](https://github.com/purduehackers/dark-forest/blob/main/people/hack-bishops/iracc__.md)
 - [@fizzyapple12](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/fizzyapple12.md)
+- [@cynthia_clementine](https://github.com/purduehackers/dark-forest/blob/main/people/hack-bishops/cynthia_clementine.md)
 
 ## Provisioning Access
 
