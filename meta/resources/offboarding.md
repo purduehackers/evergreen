@@ -1,6 +1,6 @@
 # Off-boarding
 
-When someone decides to step down from organizer-ship we follow Matthew's philiosophy in not fully removing their access
+When someone decides to step down from organizer-ship we follow Matthew's philosophy in not fully removing their access
 to the club's resources. This is because we believe that the knowledge and experience that they have gained while being
 an organizer is valuable to the club and we want to make sure that they can still contribute to the club should they
 choose to do so.

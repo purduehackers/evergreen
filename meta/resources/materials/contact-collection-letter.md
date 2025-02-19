@@ -24,7 +24,7 @@ This is an example of what a file in dark-forest would look like:
 
 - Preferred Name: Ray
 - Pronouns: he/they
-- Primary Divison: Events
+- Primary Division: Events
 - Graduation: Spring 2028
 
 ## Contacts

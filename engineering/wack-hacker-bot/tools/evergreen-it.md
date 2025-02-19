@@ -13,4 +13,4 @@ to automagically assign issues.
 
 Once the issue is created, the user is expected to go in and modify the title
 and add additional information as needed, along with assigning the appropriate
-labels and asignees.
+labels and assignees.

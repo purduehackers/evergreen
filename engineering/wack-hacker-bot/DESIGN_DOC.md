@@ -4,7 +4,7 @@
 
 ## Objective
 
-Wack Hacker is meant to provide access to multiple utilties and tools that are useful
+Wack Hacker is meant to provide access to multiple utilities and tools that are useful
 for organizers and community members via Discord commands and interactions.
 
 ## Background

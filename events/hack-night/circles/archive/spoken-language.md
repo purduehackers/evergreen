@@ -1,7 +1,7 @@
 # Spoken Language Circle
 
 The Spoken Language Circle was started Spring 2024 by [@stopwatchtt](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/stopwatchtt.md)
-and covered lingustic concepts with the ultimate goal of creating a conlang for Purdue Hackers. The Circle was active for the
+and covered linguistic concepts with the ultimate goal of creating a conlang for Purdue Hackers. The Circle was active for the
 Spring 2024 and Fall 2024 semester.
 
 [TODO(@TheBlueTopHat): describe more history of this Circle]

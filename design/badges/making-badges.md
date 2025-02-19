@@ -43,8 +43,8 @@ There are three main things that can happen: <br>
 ### Engraving
 * Make sure all engraving lines have a thickness of at least 3px — 1px and 2px lines don't show up well when laser cut.
 * You can actually use any grayscale color, from `#000000` to `#FFFFFF`, for the engraving. The lighter the engraving color, the less power the laser cutter will use for that segment of the engraving, with black being full power. But please use this wisely and sparingly:
-  * The grayscale is not simply a map between light engraving and dark engraving; lighter engravings also have an increased "dithering" effect. See the bdages for 3.0 beta, 3.6, and 4.2 for some examples.
-  * You need *lots* of constrast between colors, otherwise it will appear muddy. See the Hack Night 2.3 ("scuba") badge for an example of how a seemingly good-looking design can actually look muddy and low-contrast on the actual badge.
+  * The grayscale is not simply a map between light engraving and dark engraving; lighter engravings also have an increased "dithering" effect. See the badges for 3.0 beta, 3.6, and 4.2 for some examples.
+  * You need *lots* of contrast between colors, otherwise it will appear muddy. See the Hack Night 2.3 ("scuba") badge for an example of how a seemingly good-looking design can actually look muddy and low-contrast on the actual badge.
   * Avoid more than 2 or 3 grayscale colors in a badge design. Can't stress enough: **If you do a grayscale engraving, it will appear much lower-contrast on the badge itself vs. in the design.**
 
 # 4. Design the stamp

@@ -65,7 +65,7 @@ to get added to the access list.
 
 ### Access to Vaultwarden (Optional)
 
-If you need access to the club's password manager, Vaultwarden, ping[@infinidoge](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/infinidoge.md)
+If you need access to the club's password manager, Vaultwarden, ping [@infinidoge](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/infinidoge.md)
 in the [#core](https://discord.com/channels/772576325897945119/890595036855685181) channel to get account onboarding steps.
 This is useful for accessing shared accounts and other club resources.
 
