@@ -15,7 +15,7 @@ and that's okay! The division structure is meant to help organize the club's act
 There are currently 5 divisions in Purdue Hackers:
 
 1. [Communications](/comms/README.md)
-2. [Design](/design/README.md),
+2. [Design](/design/README.md)
 3. [Engineering](/engineering/README.md)
 4. [Events](/events/README.md)
 5. [Finances](/finances/README.md)

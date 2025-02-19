@@ -6,7 +6,7 @@ course of 24 hours and allows various alumni, students, and others invested
 in Purdue to donate to various causes and organizations at the university.
 
 We can sign up to participate in the Day of Giving by registering our
-club through an email sent via Boilerlink to the club's president and
+club through an email sent via BoilerLink to the club's president and
 treasurer.
 
 Once we are registered, we get a link to our club's donation page, via which

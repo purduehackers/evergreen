@@ -3,9 +3,9 @@
 Commit Overflow is an event run during Winter break, during the second-to-last week of December. It lasts until the beginning
 of Spring semester, the challenge being to commit for 10 days or more over Winter break.
 
-Members who complete the challege will receive a special [Badge](/design/badges/README.md) that says how many days
+Members who complete the challenge will receive a special [Badge](/design/badges/README.md) that says how many days
 they committed. If they have a streak of 10 or more consecutive days, their badge will also list that information. Those
-that commit every day until the semester starts will recieve a second extra special badge.
+that commit every day until the semester starts will receive a second extra special badge.
 
 ## Rules
 

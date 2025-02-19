@@ -22,4 +22,4 @@ Collect all the materials for each passport and place them in a bundle. Ensure e
 
 Once all bundles are created, set them aside to distribute to the participants.
 
-Lastly, set out the book tape, XActo knives, rulers, and corner rounder on the countertop.
+Lastly, set out the book tape, X-Acto knives, rulers, and corner rounder on the countertop.

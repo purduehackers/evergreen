@@ -19,7 +19,7 @@ This file serves as a guide on how to approach the social media accounts of Purd
     - Hack Night
       - Behind the scenes/Setup
       - Badge creation
-    - reposts of other organizations' events
+    - Reposts of other organizations' events
 
 ### Youtube
 

@@ -61,7 +61,7 @@ Design and build a new landing page for Purdue Hackers that embodies our unique 
 
 ### Content
 - Landing Page Content:
-- Page sections: Hero, club overview, Hack Night (featured projects, passport cermonies), Community/Workshops, blog, sponsorship info, call to action
+- Page sections: Hero, club overview, Hack Night (featured projects, passport ceremonies), Community/Workshops, blog, sponsorship info, call to action
 - Event Fields: Title, date/time, location, description
 - Contact Fields: Email address, social media links
 

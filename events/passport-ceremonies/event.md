@@ -16,7 +16,7 @@ to be sewn into a booklet.
 1. Ask all participants to take their data page out.
 2. Cut out a strip of book tape an inch longer than the length of the data page and give it to the participants.
 3. Demonstrate to the participants how to apply the book tape to the data page[^1].
-4. Once the participants have applied the book tape, ask them to grab a ruler and an XActo knife.
+4. Once the participants have applied the book tape, ask them to grab a ruler and an X-Acto knife.
 5. Have the participants cut the data page along the edge of the printed page[^2].
 6. Round the corners of the data page and the stamp pages using the corner rounder on the `S` setting.
 7. Fold the data page and stamp pages in half, inward. Place each page inside the other such that the designs match.
@@ -87,7 +87,7 @@ Immediately after the participant finishes glueing their passport, the organizer
 [^1]: The book tape should be held as straight as you can. Carefully and slowly lay down the very top of the tape on the
       data page. Once the top is down, gently let the rest of the tape fall down. If done right, the tape should be on
       with no crinkles or bubbles. If you don't get it right, it's okay.
-[^2]: The XActo knife should be held at a 45-degree angle to the paper. The ruler should be held down on the paper to
+[^2]: The X-Acto knife should be held at a 45-degree angle to the paper. The ruler should be held down on the paper to
       ensure a straight cut. If the paper doesn't cut all the way, repeat the cut until the paper is cut through.
 [^3]: The glue should be applied as a thin line in an `S` pattern or a thick line diagonally, such that there isn't too
       much glue on the card. If there is too much glue, card will slide around and the glue will seep out the sides or

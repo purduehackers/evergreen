@@ -11,7 +11,7 @@ Unless you are tracing over a design or have a complex design that requires a lo
 ### Why should I use primitives?  
 Because I said so. 
 
-Joking aside, it's very easy to shape primitives to your desire as they have a minimal amount of points and can be very easily adjusted. Unless your badge is some complex shape, then everything can be built out of rectangles, ellipses, or triangles. Most vector softwares should also have a shape builder tool that makes compining primitives easy. Finally, you can simply duplicate the final shape and get rid of the fill in order to easily create the cut line around the outside of your badge.
+Joking aside, it's very easy to shape primitives to your desire as they have a minimal amount of points and can be very easily adjusted. Unless your badge is some complex shape, then everything can be built out of rectangles, ellipses, or triangles. Most vector softwares should also have a shape builder tool that makes combining primitives easy. Finally, you can simply duplicate the final shape and get rid of the fill in order to easily create the cut line around the outside of your badge.
 
 ## Text
 Make sure you are certain that this is the font you want to use. Ensure the content inside your text is accurate (this means no typos, no wrong dates, and you are satisfied with the wording). Then flatten, convert object to path, whatever it is called on the software of your choice to convert the text to a vector. Make sure the ensuing vector does not have any outlines and is only fill. This means looking at the properties of the vector in your software and making sure there are no strokes or outlines or whatever they are called in your software, present. 
