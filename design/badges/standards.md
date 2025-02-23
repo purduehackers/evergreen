@@ -12,6 +12,7 @@ It is very easy to shape primitives to your desire as they have a minimal amount
 
 ## Material choice
 See [ordering-material.md](ordering-material.md).
+
 Be aware that different materials will cause engravings to show more or less clearly. Generally, lighter colors are more difficult to see engravings on (because engravings are white). Pearl acrylics also make the engravings much fainter. For an example, see the 5.0 badge (fluorescent) vs the 5.7 badge (pearl).
 
 ## Colors
