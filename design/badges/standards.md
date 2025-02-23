@@ -37,7 +37,7 @@ There are three main things that can happen:
 **TODO: put information here about how thick the physical cut actually is.**
 
 ## A brief warning on formatting
-You will be creating a design, exporting to a figma document, and then further exporting to Trotec Ruby for cutting. This makes for at least two, and most likely three, separate pieces of software the SVG has to go through. The following sections are dedicated to minimizing the issues that arise when moving between each program. 
+You will be creating a design, exporting to a Figma document, and then further exporting to Trotec Ruby for cutting. This makes for at least two, and most likely three, separate pieces of software the SVG has to go through. The following sections are dedicated to minimizing the issues that arise when moving between each program. 
 
 ## Text
 By default, text you create is a text object that requires a font. The fonts you have on your computer are likely different from the fonts figma has, which means that text will not look right when you export it. To solve this, before exporting, make sure to convert your text to a series of vector paths. 
