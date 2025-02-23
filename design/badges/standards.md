@@ -20,7 +20,7 @@ In this section, colors will be represented with hex codes. Hex codes can be 3 (
 
 Trotec Ruby will recognize any grayscale color from `#000` to `#FFF`, and will recognize `#F00` as the cut path. Any other color cannot be engraved or cut by Trotec Ruby.
 
-If it is your first attempt at making a badge, do not attempt grayscale. Instead, make sure everything is either `#F00`, for the cut path, `#FFF`, for no engraving, or `#000`, for engraving.
+If it is your first attempt at making a badge, do not attempt grayscale. Instead, make sure everything is either `#F00` (red), for the cut path, `#FFF` (white), for no engraving, or `#000` (black), for engraving.
 
 ## Engraving
 * Make sure all engraving lines have a thickness of at least 3% the size of the badge. Engraving patterns that are too thin will not show up well.
