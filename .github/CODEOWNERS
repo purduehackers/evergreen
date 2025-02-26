@@ -1,7 +1,15 @@
 # Evergreen project owner
 *                                       @rayhanadev
 
+# Division Leads
+/engineering/                           @ImTheSquid
+/comms/                                 @Phineas1500
+/design/                                @hestabshim
+/events/                                @rayhanadev
+/finances/                              @joshamstutz
 /meta/                                  @MatthewStanciu @rayhanadev
+
+# Meta
 /meta/locations/lawson-office.md        @Infinidoge
 
 # Comms Division
@@ -13,8 +21,9 @@
 /comms/social/                          @jaddenki
 
 # Design Division
-/design/assets/                         # No one owns this yet
-/design/badges/                         # No one owns this yet
+/design/assets/                         @hestabshim
+/design/badges/                         @hestabshim
+/design/branding2025/                         @hestabshim
 
 # Engineering Division
 /engineering/beacons/                   @ImTheSquid
@@ -48,10 +57,3 @@
 # Finances Division
 /finances/budget/                       @joshamstutz
 /finances/reimbursements/               @joshamstutz @MatthewStanciu
-
-# Division Leads
-/engineering/                           @ImTheSquid
-/comms/                                 @Phineas1500
-/design/                                # No one owns this yet
-/events/                                @rayhanadev
-/finances/                              @joshamstutz
