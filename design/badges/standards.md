@@ -37,7 +37,7 @@ If it is your first attempt at making a badge, do not attempt grayscale. Instead
 * Make sure all engraving lines have a thickness of at least 3% the size of the badge. Engraving patterns that are too thin will not show up well.
 * You can actually use any grayscale color, from `#000` to `#FFF`, for the engraving. The lighter the engraving color, the less power the laser cutter will use for that segment of the engraving. (black being full power, and white being no power). But please use this wisely and sparingly:
     * The grayscale is not simply a map between light engraving and dark engraving; lighter engravings also have an increased "dithering" effect. See the badges for 3.0 beta, 3.6, and 4.2 for some examples.
-    * Grayscale colors will not engrave the way you think they will. Anything lighter than something around `#666666` is unlikely to show up, so don’t attempt it for anything that must be clear. For any lines or other pieces of engraving that you want to make sure show up, please use `#000000` or a color very near to it.
+    * Grayscale colors will not engrave the way you think they will. Anything lighter than something around `#666666` is unlikely to show up, so don’t attempt it for anything that must be clear. For any lines or other pieces of engraving that you want to make sure show up, please use `#000000` or a color near to it.
     * You need *lots* of contrast between colors, otherwise it will appear muddy. Ruby does not do well with low-contrast engravings. See the Hack Night 2.3 ("scuba") badge for an example of how a seemingly good-looking design can actually look muddy and low-contrast on the actual badge.
     * Avoid more than 2 or 3 grayscale colors in a badge design. Can't stress enough: **If you do a grayscale engraving, it will appear much lower-contrast on the badge itself vs. in the design.**
 
@@ -76,5 +76,5 @@ The one exception to this rule is the cut path, which should remain as a stroke.
 # Stamp standards
 
 * The largest size in Trotec Ruby should be 1.5 inches
-* The design in the center of the stamp should not include any text or comp
+* The design in the center of the stamp should not include any text or complex items. Make it a simple version of the badge that removes a lot of elements.
 * The only allowed engraving colors are `#000000` and `#FFFFFF`. Do not use grayscale in a stamp, otherwise the stamp will be uneven and none of the grayscale strokes will show up when stamped.
