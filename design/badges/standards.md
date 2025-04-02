@@ -24,7 +24,7 @@ The ideal size for a badge is somewhere between 2.0 and 2.7 inches. Try not to m
 
 In general, a badge should not be smaller than 2.0 inches in any direction unless it’s super warranted or there are material constraints. 1.9 or 1.8 in one direction (so >2.0 in the other direction) can be fine if the design is good.
 
-Never make a badge smaller than 2.0 inches in _both_ directions or smaller than 1.7 inches in one direction. See the Hack Night 3.2 “lightning time” badge for an example of a solid badge that was kneecapped by being too small.
+Never make a badge smaller than 2.0 inches in _both_ directions or smaller than 1.7 inches in one direction. See the Hack Night 3.3 “lightning time” badge for an example of a solid badge that was kneecapped by being too small.
 
 ## Colors
 In this section, colors will be represented with hex codes. Hex codes can be 3 (`#xxx`) or 6 (`#xxxxxx`) digits. For the sake of simplicity, hex codes in this document will be represented by a 3-digit code. To get the corresponding 6-digit code, simply double each digit. For example, `#F00` -> `#FF0000`
