@@ -26,6 +26,8 @@ In general, a badge should not be smaller than 2.0 inches in any direction unles
 
 Never make a badge smaller than 2.0 inches in _both_ directions or smaller than 1.7 inches in one direction. See the Hack Night 3.3 “lightning time” badge for an example of a solid badge that was kneecapped by being too small.
 
+*Important:* The total size of the whole thing should not exceed `acrylic sheet width and height - 0.125` inches, or `- 0.15` if you want to really be safe. Acrylic manufacturers like Canal Plastics have a tolerance of +-1/8 inch, and in our experience it’s almost always on the minus side. This means that if the supposed width of a sheet of acrylic is 12x18 inches, you should assume it’s actually 11.875x17.875 inches.
+
 ## Colors
 In this section, colors will be represented with hex codes. Hex codes can be 3 (`#xxx`) or 6 (`#xxxxxx`) digits. For the sake of simplicity, hex codes in this document will be represented by a 3-digit code. To get the corresponding 6-digit code, simply double each digit. For example, `#F00` -> `#FF0000`
 
