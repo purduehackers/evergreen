@@ -15,6 +15,17 @@ See [ordering-material.md](ordering-material.md).
 
 Be aware that different materials will cause engravings to show more or less clearly. Generally, lighter colors are more difficult to see engravings on (because engravings are white). Pearl acrylics also make the engravings much fainter. For an example, see the 5.0 badge (fluorescent) vs the 5.7 badge (pearl).
 
+## Size
+When aligning badges in Trotec Ruby, you’ll have to decide on a size for each of them. This is an annoying and complex dance because you want to balance making them the right size while also maximizing space & getting as many badges as you can out of the material.
+
+For a 12x18 sheet, you should aim to make 40-50 badges per sheet (80-100 badges total, since we usually use 2 12x18 sheets). For a 12x12 badge you should aim to make 30-35 badges.
+
+The ideal size for a badge is somewhere between 2.0 and 2.7 inches. Try not to make the dimension on either side larger or smaller than this if you can. Though larger is ok if you think the badge warrants it.
+
+In general, a badge should not be smaller than 2.0 inches in any direction unless it’s super warranted or there are material constraints. 1.9 or 1.8 in one direction (so >2.0 in the other direction) can be fine if the design is good.
+
+Never make a badge smaller than 2.0 inches in _both_ directions or smaller than 1.7 inches in one direction. See the Hack Night 3.2 “lightning time” badge for an example of a solid badge that was kneecapped by being too small.
+
 ## Colors
 In this section, colors will be represented with hex codes. Hex codes can be 3 (`#xxx`) or 6 (`#xxxxxx`) digits. For the sake of simplicity, hex codes in this document will be represented by a 3-digit code. To get the corresponding 6-digit code, simply double each digit. For example, `#F00` -> `#FF0000`
 
@@ -26,6 +37,7 @@ If it is your first attempt at making a badge, do not attempt grayscale. Instead
 * Make sure all engraving lines have a thickness of at least 3% the size of the badge. Engraving patterns that are too thin will not show up well.
 * You can actually use any grayscale color, from `#000` to `#FFF`, for the engraving. The lighter the engraving color, the less power the laser cutter will use for that segment of the engraving. (black being full power, and white being no power). But please use this wisely and sparingly:
     * The grayscale is not simply a map between light engraving and dark engraving; lighter engravings also have an increased "dithering" effect. See the badges for 3.0 beta, 3.6, and 4.2 for some examples.
+    * Grayscale colors will not engrave the way you think they will. Anything darker than something around `#666666` is unlikely to show up, so don’t attempt it for anything that must be clear. For any lines or other pieces of engraving that you want to make sure show up, please use `#000000` or a color very near to it.
     * You need *lots* of contrast between colors, otherwise it will appear muddy. Ruby does not do well with low-contrast engravings. See the Hack Night 2.3 ("scuba") badge for an example of how a seemingly good-looking design can actually look muddy and low-contrast on the actual badge.
     * Avoid more than 2 or 3 grayscale colors in a badge design. Can't stress enough: **If you do a grayscale engraving, it will appear much lower-contrast on the badge itself vs. in the design.**
 
@@ -60,3 +72,9 @@ The one exception to this rule is the cut path, which should remain as a stroke.
 ## Other Various Pitfalls
 * Always make sure the cut line is `#F00`, not any other shade of red. Trotec Ruby only recognizes `#F00`. This can be fixed in Ruby itself, so it's not a big deal, but it's better to get it right in the design so that we don't risk missing it when we make the badge & not having the cut line work.
 * If you are using adobe illustrator, make sure your color mode is set to RGB. You can check this by going to File -> Document Color Mode and setting it to RGB Color. If it is not set to RGB Color, the colors will change on export without you noticing and bad things will happen.
+
+# Stamp standards
+
+* The largest size in Trotec Ruby should be 1.5 inches
+* The design in the center of the stamp should not include any text or comp
+* The only allowed engraving colors are `#000000` and `#FFFFFF`. Do not use grayscale in a stamp, otherwise the stamp will be uneven and none of the grayscale strokes will show up when stamped.
