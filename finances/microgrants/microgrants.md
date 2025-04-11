@@ -1,5 +1,6 @@
-# *Microgrants*
-<sup><sub>DRI: [@joshamstutz](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/joshamstutz.md)</sub></sup>
+# Microgrants
+
+- **DRI**: [@joshamstutz](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/joshamstutz.md)
 
 ## Overview
 
@@ -31,7 +32,6 @@ Microgrants aims to:
 - $1 - $300 <sup><sub>($500)</sub></sup>
 
 <sup><sub>total: ~$3000</sub></sup>
-
 
 ### Funding Can Cover
 - Hardware components
@@ -89,7 +89,7 @@ Microgrants aims to:
  **LACK OF ANY REPORT RESULTS IN GRANT TERMINATION**
 
  ## Summary
- 
+
  ### Impact
  - Expands the show!
  - Makes checkpoints more active
