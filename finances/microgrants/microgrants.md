@@ -28,11 +28,6 @@ Microgrants aims to:
 
 ## Funding Details
 
-### Grant Amounts
-- $1 - $300 <sup><sub>($500)</sub></sup>
-
-<sup><sub>total: ~$3000</sub></sup>
-
 ### Funding Can Cover
 - Hardware components
 - Software licenses
