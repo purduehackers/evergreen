@@ -44,8 +44,9 @@ Kiln was a micro game jam hosted by Purdue Hackers from April 18–20, 2025. The
   - Over-reliance on one person to pick up unhandled duties.
   - The event reinforced concerns among attendees that Purdue Hackers could not reliably follow through on commitments.
 - Venue Failure
-  - A confirmed venue was not secured until late, undermining motivation to organize and prepare.
-  - DSAI presented more bureaucracy than expected, causing additional delays.
+  - A confirmed venue was not secured until the week of the event, undermining motivation to organize and prepare.
+  - DSAI presented more bureaucracy than expected, causing additional delays. We started having a conversation with them three weeks or so before the event by talking to the facilities supervisor Jay Senesac. We got him on board pretty quickly but it wasn't his call to decide whether we could use the venue, so he offered to take it to the people higher up than him. There were lots of stipulations and restrictions, costs associated with janitorial fees, and bureaucratic processes we couldn't wait for.
+    - DSAI is still a viable future venue for events, College of Science is excited about the prospect of us hosting events in the space, we just need to start engaging with them a lot sooner.
   - Last-minute engagement with the Envision Center seemed promising, but the venue was ultimately unusable for most of the jam:
     - Time restrictions (no access from 12:00 AM to 6:00 AM in STEW/PMU) fragmented the event.
     - No backup venue plan existed.
