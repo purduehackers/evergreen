@@ -31,6 +31,7 @@ Evergreen is currently composed of two Github repos, [purduehackers/evergreen](h
 ### Goals
 
 - Must be able to easily create notes
+- Must have authentication to view and edit notes
 - Must be able to easily edit notes (zero friction to open, make changes, and view)
 	- Must be able to edit multiple notes in one view (projects)
 	- Must be able to collaboratively 
@@ -48,7 +49,7 @@ Evergreen is currently composed of two Github repos, [purduehackers/evergreen](h
 
 - Must be a web interface
 - Must be mobile friendly
-- Must be low-friction in all processes
+- Must be low-friction in all processes (create notes, edit notes, leave feedback, deploy)
 - Must be easily browsable
 
 ## Design
@@ -62,7 +63,7 @@ Evergreen is currently composed of two Github repos, [purduehackers/evergreen](h
 
 I think the primarily inspiration for this platform will be web IDEs like Replit and Glitch, which offer zero-friction ways to edit files and deploy code. In this case, it will be editing Markdown in a WYSIWYG format and deploying a static site compiling the Markdown. They also have great models for managing collections (eq. projects), access control and generally indexing content for search.
 
-The frontend will be implemented in Next.js. Authentication can be done through `next-auth`, integrating into whatever auth system we choose (Passports, Github, etc.). Data for collections/deployments/etc. will be stored in a Postgres database (`drizzle-orm` for ORM of choice). Uploaded assets can be stored in Vercel Blob or something similar.
+The frontend will be implemented in Next.js. Authentication can be done through `next-auth`, integrating into whatever auth system we choose (Passports, Github, etc.). Data for collections/deployments/etc. will be stored in a Postgres database (`drizzle-orm` for ORM of choice). Uploaded assets can be stored in an S3 database (Vercel Blob, Minio for self-hosting) or something similar.
 
 The backend will be a Go server that implements operational transforms (OTs) so that edits can be easily stored and rolled back. OTs is the default change stack that CodeMirror uses and is easier to implement than CRDTs. I'm also not optimizing the editor for offline-first use-cases... idk could be something we want to see?
 
@@ -90,7 +91,22 @@ N/A
 
 ### Security
 
-Need to figure out access controls. Use `@` to mention members, built-in PII protection.
+ACLs can be a mix of Github and Google Docs. 
+
+Roles:
+- Admin: can manage all aspects of a collection
+- Maintainer: can manage permissions and content in collection
+- Editor: can create/edit content in collection
+- Guest: can temporarily edit a certain files in a collection
+- Viewer: can view content (readonly)
+
+Have share links to allow for sharing collections/content (a lá Google Docs).
+
+Collections can either be published (readonly), public (editable), internal, or fully private. Depending on the content one can choose the appropriate view level.
+
+Content in collections can be drafted (omitted from published site), published (published in public site), or internal/hidden (only authorized users can view, omitted from published site).
+
+Use `@` to mention members and easily search for users.
 
 ### Performance
 
