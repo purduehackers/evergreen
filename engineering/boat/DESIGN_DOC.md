@@ -65,7 +65,7 @@ I think the primarily inspiration for this platform will be web IDEs like Replit
 
 The frontend will be implemented in Next.js. Authentication can be done through `next-auth`, integrating into whatever auth system we choose (Passports, Github, etc.). Data for collections/deployments/etc. will be stored in a Postgres database (`drizzle-orm` for ORM of choice). Uploaded assets can be stored in an S3 database (Vercel Blob, Minio for self-hosting) or something similar.
 
-The backend will be a Go server that implements operational transforms (OTs) so that edits can be easily stored and rolled back. OTs is the default change stack that CodeMirror uses and is easier to implement than CRDTs. I'm also not optimizing the editor for offline-first use-cases... idk could be something we want to see?
+The backend will be a `elysia` server (Bun runtime) that implements operational transforms (OTs) so that edits can be easily stored and rolled back. OTs is the default change stack that CodeMirror uses and is easier to implement than CRDTs. I'm also not optimizing the editor for offline-first use-cases... idk could be something we want to see?
 
 ### Deployment
 
