@@ -91,7 +91,9 @@ N/A
 
 ### Security
 
-ACLs can be a mix of Github and Google Docs. 
+Authentication can be handled through Passports.
+
+ACLs can be a mix of style from Github and Google Docs. 
 
 Roles:
 - Admin: can manage all aspects of a collection
