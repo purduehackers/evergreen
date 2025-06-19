@@ -7,7 +7,7 @@
 /design/                                @hestabshim
 /events/                                @rayhanadev
 /finances/                              @joshamstutz
-/meta/                                  @MatthewStanciu @rayhanadev
+/meta/                                  @rayhanadev
 
 # Meta
 /meta/locations/lawson-office.md        @Infinidoge
@@ -23,11 +23,11 @@
 # Design Division
 /design/assets/                         @hestabshim
 /design/badges/                         @hestabshim
-/design/branding2025/                         @hestabshim
+/design/branding2025/                   @hestabshim
 
 # Engineering Division
 /engineering/beacons/                   @ImTheSquid
-/engineering/dashboard/                 @MatthewStanciu @rayhanadev
+/engineering/dashboard/                 @rayhanadev
 /engineering/door-opener/               @FizzyApple12
 /engineering/doorbell/                  @FizzyApple12
 /engineering/lightning-time/            @MatthewStanciu
@@ -36,7 +36,7 @@
 /engineering/passports/id               @ImTheSquid
 /engineering/passports/issuing-office   @MatthewStanciu
 /engineering/passports/pdf-concat       @rayhanadev
-/engineering/passports/                 @MatthewStanciu
+/engineering/passports/                 @rayhanadeb
 /engineering/phone-bell/                @FizzyApple12
 /engineering/site/                      @lilianzlettuce
 /engineering/tabulus/                   @TheBlueTophat
@@ -46,14 +46,14 @@
 
 # Events Division
 /events/archive/                        @rayhanadev
-/events/ask-me-anythings/               @MatthewStanciu @rayhanadev
-/events/callouts/                       @MatthewStanciu @rayhanadev
-/events/commit-overflow/                @MatthewStanciu @rayhanadev
-/events/hack-night/                     @MatthewStanciu @rayhanadev
-/events/passport-ceremonies/            @MatthewStanciu @rayhanadev
-/events/server/                         @MatthewStanciu @rayhanadev @Infinidoge
-/events/workshops/                      @MatthewStanciu @rayhanadev
+/events/ask-me-anythings/               @rayhanadev
+/events/callouts/                       @rayhanadev
+/events/commit-overflow/                @rayhanadev
+/events/hack-night/                     @rayhanadev
+/events/passport-ceremonies/            @rayhanadev
+/events/server/                         @rayhanadev @Infinidoge
+/events/workshops/                      @rayhanadev
 
 # Finances Division
 /finances/budget/                       @joshamstutz
-/finances/reimbursements/               @joshamstutz @MatthewStanciu
+/finances/reimbursements/               @joshamstutz @rayhanadev
