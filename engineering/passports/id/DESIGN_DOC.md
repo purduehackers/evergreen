@@ -34,12 +34,13 @@ Anyone with a passport and all Purdue Hackers projects that require consistent i
 	- Easy to implement
 - Usable in a secure manner when necessary, configurable on a per-client basis
   - Some site could require 2FA for all sign ins and force users without it to add it before continuing
+  - Use either TOTP or Webauthn (https://github.com/kanidm/webauthn-rs)
 - Store passport data and manage which one is active for each user
 - A user management interface
 - Metrics and event logging (metrics exportable to some TBD software, events with a webhook)
   - Exact contents of metrics and event logging to be determined later
 - Groups API (allows any application with the `user:read` scope to query a user's groups and take action on them)
-- Future: Policies system, execute python code on certain events (ex. on:login, on:logout, on:usermanage) to modify data or deny request
+- Future: Hook system, execute python code on certain events (ex. on:login, on:logout, on:usermanage) to modify data or deny request
 
 ### Non-Goals
 
@@ -86,7 +87,7 @@ Users can integrate with ID using the example repo as a base.
 
 ### Security
 
-Passports on their own are not secure since they just use basic NFC tags. For most applications this is fine but for high-security apps it is possible to swipe an administrator’s passport and scan it when asked. Therefore apps can require two-factor authentication (TOTP specifically) if they necessitate secure authentication.
+Passports on their own are not secure since they just use basic NFC tags. For most applications this is fine but for high-security apps it is possible to swipe an administrator’s passport and scan it when asked. Therefore, apps can require two-factor authentication if they necessitate secure authentication but if the session is 2FA authenticated then the cached version will be accepted. If the session is not 2FA authenticated then an upgrade will be attempted.
 
 ### Performance
 
