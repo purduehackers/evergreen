@@ -29,7 +29,7 @@ Anyone with a passport and all Purdue Hackers projects that require consistent i
 
 ### Goals
 
-- OAuth compatibility
+- OAuth & [OIDC](https://openid.net/specs/openid-connect-core-1_0.html) compatibility
 	- Usable with popular JS auth libs
 	- Easy to implement
 - Usable in a secure manner when necessary, configurable on a per-client basis
@@ -39,7 +39,7 @@ Anyone with a passport and all Purdue Hackers projects that require consistent i
 - A user management interface
 - Metrics and event logging (metrics exportable to some TBD software, events with a webhook)
   - Exact contents of metrics and event logging to be determined later
-- Groups API (allows any application with the `user:read` scope to query a user's groups and take action on them)
+- Groups integration through OIDC spec (allows any application with the `user:read` scope to query a user's groups and take action on them)
 - Future: Hook system, execute python code on certain events (ex. on:login, on:logout, on:usermanage) to modify data or deny request
 
 ### Non-Goals
@@ -66,7 +66,7 @@ Each user can have an arbitrary number of passports associated with them but onl
 
 A basic interface reminiscent of other current sign in platforms will ask the user if they want to approve the connection with the target app and list the scopes the app is requesting after they verify ownership of their passport. Passport ownership is verified by entering the passport number then scanning the passport with a phone to contact the server and allow the sign in.
 
-The user management system will allow a user to enroll/unenroll from 2FA and manage aspects of their profile as well as adding their own clients to work with ID. The admin side will allow arbitrary user operations (enable/disable, see 2FA, etc).
+The user management system will allow a user to enroll/unenroll from 2FA and manage aspects of their profile as well as adding their own clients to work with ID (with some restrictions on scopes to protect sensitive information). The admin side will allow arbitrary user operations (enable/disable, see 2FA, etc).
 
 The metrics and events system, groups, and (future) policies will be customizable from the admin dashboard.
 
