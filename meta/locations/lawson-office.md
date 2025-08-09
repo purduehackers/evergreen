@@ -29,6 +29,7 @@ These individuals have been provisioned access to the office:
 - [@theshadoweevee](https://github.com/purduehackers/dark-forest/blob/main/people/hack-bishops/theshadoweevee.md)
 - [@firefoxofficial](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/firefoxofficial.md)
 - [@almondman](https://github.com/purduehackers/dark-forest/blob/main/people/hack-bishops/almondman.md)
+- [@glitchyfuzzy](https://github.com/purduehackers/dark-forest/blob/main/people/external/glitchyfuzzy.md)
 
 ## Provisioning Access
 
