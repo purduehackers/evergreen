@@ -18,11 +18,12 @@ building is open).
 
 These individuals have been provisioned access to the office:
 
-- [Matthew](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/hewillyeah.md)
-- [@stopwatchtt](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/stopwatchtt.md)
 - [@imthesquid](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/imthesquid.md)
 - [Ray](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/rayhanadev.md)
 - [@phineas1500](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/phineas1500.md)
 - [@firefoxofficial](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/firefoxofficial.md)
+- [@infinidoge](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/infinidoge.md)
+- [@jaddenki](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/jaddenki.md)
+- Three others not in Evergreen yet
 
 [TODO(@phineas1500): Add steps for provisioning access]
