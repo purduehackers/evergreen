@@ -25,7 +25,8 @@ to be sewn into a booklet.
 ## Sewing Machine
 
 The second station is the Sewing Machine. This station is responsible for sewing the data page and stamp pages into a
-booklet. The sewing machine should be set up and ready to go before the event starts.
+booklet. The sewing machine should be set up and ready to go before the event starts
+[See resources for details on where to obtain sewing machine from and set it up!](./resources.md)
 
 1. Ask the participants to bring their booklet to the sewing machine.
 2. Place four wonder clips on each corner of the booklet to hold it in place.

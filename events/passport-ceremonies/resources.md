@@ -52,9 +52,11 @@ to the Cricut account.
 - Cricut Maker 3 (used for cutting the laminated cards, cardstock layer, and the design on the heat transfer vinyl)
 - Cricut EasyPress 3 (used for heat pressing the design onto the faux leather)
 - Lamination Machine (used for laminating the cards)
-- Singer Heavy Duty Sewing Machine (used for sewing pages and cardstock layer together)
+- Singer Heavy Duty Sewing Machine (used for sewing pages and cardstock layer together)[^2]
 - HP LaserJet Printer (used for printing the design on the printer paper and cardstock)
 
 [^1]: We laser cut this at the Bechtel Center. This is used as the "template" for cutting the faux leather to the right
       size. You can use anything as long as it's cut to 17.8cm x 12.4cm, but ideally it should have a little bit of weight,
       because you'll have to hold it down and cut around it.
+[^2]: As of September 2025, we only have permission to use the Singer sewing machine
+      in the Fabric Lab of Bechtel Center. Do **not** use any other machine.
