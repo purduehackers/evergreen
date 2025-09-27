@@ -5,7 +5,7 @@ and few of these are set in stone.
 
 ## President
 
-> Current President: [Matthew](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/hewillyeah.md)
+> Current President: [Ray](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/rayhanadev.md)
 
 The role of the President is to oversee the club and ensure that it is running smoothly. The President is responsible for
 the overall direction of the club and is the main point of contact for the club. They also interact directly with the
@@ -84,10 +84,9 @@ that all projects within the Engineering Division are running smoothly and are i
 
 > Current Engineers:
 > - [@ImTheSquid](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/imthesquid.md)
-> - [@stopwatchtt](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/stopwatchtt.md)
-> - [@fizzyapple12](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/fizzyapple12.md)
 > - [@letttttttuce](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/letttttttuce.md)
 > - [@infinidoge](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/infinidoge.md)
+> - [@ericswpark](https://github.com/purduehackers/dark-forest/blob/main/people/organizers/ericswpark.md)
 
 Engineers are responsible for building and maintaining club projects. They own the technical aspects of the club and work
 closely with the Events Division to ensure that all club events run smoothly and develop new technology to enhance the club
