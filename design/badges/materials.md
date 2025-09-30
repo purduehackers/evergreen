@@ -45,7 +45,7 @@ colors and finishes available.
   for the same material. It's usually cheaper on amazon, and ships faster. The
   catch is that they don’t have as much stuff as the 🐐s at Canal Plastics.
 
-We typically use 1/16" thick acrylic for our badges. For badge cutting you
+We typically use 1/8" thick acrylic for our badges. For badge cutting you
 should purchase either:
 
 - 2x 12" x 18" sheets (perfect for 90-110 badges)
