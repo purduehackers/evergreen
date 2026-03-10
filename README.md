@@ -1,3 +1,7 @@
+> :warning: This repo was archived in March 2026. We have since built up new infrastructure using Notion and [Quartz](https://github.com/purduehackers/quartz) to share Evergreen.
+> For an up-to-date version, please visit https://evergreen.purduehackers.com or ping `@Wack Hacker` in the PH Discord :)
+
+
 # evergreen 🌲
 
 Evergreen is the eternal living knowledgebase for Purdue Hackers. It is a collection of resources, guides, and documentation, which are updated constantly as the org runs.
