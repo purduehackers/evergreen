@@ -3,7 +3,8 @@
 Wack Hacker can automatically create and assign issues for users. To use this
 feature, you can reply to a Discord message you want to start an Evergreen
 issue from with `evergreen it` or simply reply `evergreen it` and it will
-automatically use the last message in the channel.
+automatically use the last message in the channel. Typing anything after 
+that, such as `evergreen it Document X and Y`, will set the issues title.
 
 ![](https://github.com/user-attachments/assets/cac51b7d-e912-4a5c-a443-d03923f3eb4d)
 
